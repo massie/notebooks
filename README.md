@@ -1,2 +1,3 @@
-# notebooks
-Repo to hold Jupyter notebooks
+# Jupyter Notebooks
+
+Repo to hold my Jupyter notebooks
