@@ -1,0 +1,858 @@
+,Epitope ID,Object Description,Linear Sequence,Modification,Modified Residues,Source Molecule Accession,Source Molecule Name,Source Organism ID,Source Organism Name
+0,3732,APQPAPENAY,APQPAPENAY,,,115196,Trans-activator protein BZLF1,10376,Human herpesvirus 4
+1,5316,AVFDRKSDAK,AVFDRKSDAK,,,23893616,EBNA-3B nuclear protein,10376,Human herpesvirus 4
+2,6568,CLGGLLTMV,CLGGLLTMV,,,522187,membrane protein,10376,Human herpesvirus 4
+3,17600,FRKAQIQGL,FRKAQIQGL,,,119114,Epstein-Barr nuclear antigen 6,10376,Human herpesvirus 4
+4,27375,ILTDFSVIK,ILTDFSVIK,,,64173269,EBNA3B (EBNA4A) latent protein,10376,Human herpesvirus 4
+5,29466,IVTDFSVIK,IVTDFSVIK,,,23893616,EBNA-3B nuclear protein,10376,Human herpesvirus 4
+6,29468,IVTDFSVIR,IVTDFSVIR,,,PT10002617,EBNA-3B,10376,Human herpesvirus 4
+7,37960,LLWTLVVLL,LLWTLVVLL,,,522187,membrane protein,10376,Human herpesvirus 4
+8,55252,RPPIFIRRL,RPPIFIRRL,,,82011648,EBNA3A nuclear protein,10376,Human herpesvirus 4
+9,55529,RRARSLSAERY,RRARSLSAERY,,,23893616,EBNA-3B nuclear protein,10376,Human herpesvirus 4
+10,55620,RRIYDLIEL,RRIYDLIEL,,,23893617,EBNA3C latent protein,10376,Human herpesvirus 4
+11,55734,RRRWRRLTV,RRRWRRLTV,,,126379,Latent membrane protein 2,10376,Human herpesvirus 4
+12,62305,SVRDRLARL,SVRDRLARL,,,82011648,EBNA3A nuclear protein,10376,Human herpesvirus 4
+13,77774,CLGGLLTMVA,CLGGLLTMVA,,,81938918,Latent membrane protein 2,10376,Human herpesvirus 4
+14,77775,CLGGLLTMVAG,CLGGLLTMVAG,,,81938918,Latent membrane protein 2,10376,Human herpesvirus 4
+15,111695,QYEIINYF,QYEIINYF,,,SRC245685,membrane protein UL1,10359,Human herpesvirus 5
+16,111696,QYEIMNYF,QYEIMNYF,,,SRC245695,polymerase accessory protein T 6/GS,10359,Human herpesvirus 5
+17,146374,KEKNGDVVEL,KEKNGDVVEL,,,PT10007134,envelope glycoprotein Q,10372,Human herpesvirus 7
+18,53112,RAHYNIVTF,RAHYNIVTF,,,119710792,E7 protein,333760,Human papillomavirus type 16
+19,111667,QFPIFLQF,QFPIFLQF,,,SRC241946,major capsid protein L1,333761,Human papillomavirus type 18
+20,144866,AITNAKII,AITNAKII,,,60549168,matrix protein,11250,Human respiratory syncytial virus
+21,121350,GRNEVFSNK,GRNEVFSNK,,,2627321,polymerase subunit L,11260,Human respiratory syncytial virus A strain Long
+22,121386,HRFIYLINH,HRFIYLINH,,,1912289,non-structural protein 2,11260,Human respiratory syncytial virus A strain Long
+23,121389,HRQDINGKEM,HRQDINGKEM,,,127889,Nucleoprotein,11260,Human respiratory syncytial virus A strain Long
+24,121504,KRLPADVLKK,KRLPADVLKK,,,137260,Matrix M2,11260,Human respiratory syncytial virus A strain Long
+25,121506,KRYKGLLPKDI,KRYKGLLPKDI,,,127889,Nucleoprotein,11260,Human respiratory syncytial virus A strain Long
+26,121591,LRNEESEKMAK,LRNEESEKMAK,,,17981392,phosphoprotein P,11260,Human respiratory syncytial virus A strain Long
+27,121810,RRANNVLKNEM,RRANNVLKNEM,,,127889,Nucleoprotein,11260,Human respiratory syncytial virus A strain Long
+28,121876,SRSALLAQM,SRSALLAQM,,,60549168,matrix protein,11260,Human respiratory syncytial virus A strain Long
+29,122004,VRNKDLNTL,VRNKDLNTL,,,60549168,matrix protein,11260,Human respiratory syncytial virus A strain Long
+30,414,AARPATSTL,AARPATSTL,,,41019505,Eukaryotic translation initiation factor 4 gamma 1,9606,Homo sapiens
+31,434,AASKERSGVSL,AASKERSGVSL,,,121925,Histone H1.3,9606,Homo sapiens
+32,996,AEIPRTFKY,AEIPRTFKY,,,SRC250677,RAS p21 protein activator 2,9606,Homo sapiens
+33,997,AEIPTRVNY,AEIPTRVNY,,,SRC250676,synaptotagmin IX ,9606,Homo sapiens
+34,1210,AEVDKVTGRF,AEVDKVTGRF,,,52783792,40S ribosomal protein S21,9606,Homo sapiens
+35,2528,ALFGALFLA,ALFGALFLA,,,1709662,Phospholipid transfer protein precursor,9606,Homo sapiens
+36,2685,ALLAGSEYL,ALLAGSEYL,,,6685526,Eukaryotic translation initiation factor 3 subunit D,9606,Homo sapiens
+37,2874,ALSDHHIYL,ALSDHHIYL,,,113606,Fructose-bisphosphate aldolase A,9606,Homo sapiens
+38,2995,ALWDIETGQQTV,ALWDIETGQQTV,,,51317304,Guanine nucleotide-binding protein G,9606,Homo sapiens
+39,3500,APAYSRAL,APAYSRAL,,,19855073,Heat shock protein beta-1,9606,Homo sapiens
+40,3530,APEEHPVLL,APEEHPVLL,,,54036678,"Actin, cytoplasmic 2",9606,Homo sapiens
+41,3549,APFEPLASGIL,APFEPLASGIL,,,135850,Metalloproteinase inhibitor 1 precursor,9606,Homo sapiens
+42,3624,APKRPPSAF,APKRPPSAF,,,123369,High mobility group protein B1,9606,Homo sapiens
+43,3809,APRTVALTA,APRTVALTA,,,122263,"HLA class II histocompatibility antigen, DP",9606,Homo sapiens
+44,3813,APSGSLAVPLAVL,APSGSLAVPLAVL,,,47117631,Thioredoxin domain-containing protein 1 precursor,9606,Homo sapiens
+45,4395,ASFDKAKLK,ASFDKAKLK,,,54039778,Thymosin beta-10,9606,Homo sapiens
+46,4785,ASSSYNMVI,ASSSYNMVI,,,386744,guanine nucleotide-binding protein G-s-alpha-2,9606,Homo sapiens
+47,4982,ATGPSIKI,ATGPSIKI,,,307218,MHC B complex protein 12.3,9606,Homo sapiens
+48,7536,DAHIYLNHI,DAHIYLNHI,,,136611,Thymidylate synthase,9606,Homo sapiens
+49,7560,DAKIRIFDL,DAKIRIFDL,,,148887414,60S ribosomal protein L10,9606,Homo sapiens
+50,7683,DAYALNHTL,DAYALNHTL,,,2833276,POU domain class 2-associating factor 1,9606,Homo sapiens
+51,7692,DAYRRIHSL,DAYRRIHSL,,,20532383,BRCA1/BRCA2-containing complex subunit 3,9606,Homo sapiens
+52,8193,DEVGIVTKMY,DEVGIVTKMY,,,SRC250679,dynein,9606,Homo sapiens
+53,8194,DEVGIVTKY,DEVGIVTKY,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+54,9994,DRKLRINSL,DRKLRINSL,,,SRC250689,topoisomerase (DNA) III alpha,9606,Homo sapiens
+55,10073,DRYRRIHSL,DRYRRIHSL,,,7717235,T-cell receptor alpha chain-c6.1A fusion protein,9606,Homo sapiens
+56,13124,ELKKKTNL,ELKKKTNL,,,SRC250681,"hCG1746041, isoform CRA_b",9606,Homo sapiens
+57,13145,ELKVKNLEL,ELKVKNLEL,,,266902,CAP-Gly domain-containing linker protein 1,9606,Homo sapiens
+58,13682,EPKYKTQL,EPKYKTQL,,,SRC250687,zinc finger protein,9606,Homo sapiens
+59,14027,ERLKIRGSL,ERLKIRGSL,,,51338648,40S ribosomal protein S25,9606,Homo sapiens
+60,14083,ERTLHLVEL,ERTLHLVEL,,,SRC250690,kelch domain,9606,Homo sapiens
+61,14104,ERYPRYNQL,ERYPRYNQL,,,SRC250688,alpha 1 type VIII collagen,9606,Homo sapiens
+62,14628,EVAPPEYHRK,EVAPPEYHRK,,,4808625,MRG15 protein,9606,Homo sapiens
+63,16586,FLFDGSPTYV,FLFDGSPTYV,,,269849686,Fatty acid synthase,9606,Homo sapiens
+64,16587,FLFDGSPTYVL,FLFDGSPTYVL,,,67476453,Fatty acid synthase,9606,Homo sapiens
+65,17725,FSGPAISRI,FSGPAISRI,,,125585,Ribose-phosphate pyrophosphokinase 3,9606,Homo sapiens
+66,17944,FTEVSIRKY,FTEVSIRKY,,,SRC250684,ankyrin repeat domain 30B,9606,Homo sapiens
+67,20774,GLATDVQTV,GLATDVQTV,,,20532411,Proteasome subunit beta type-3,9606,Homo sapiens
+68,20914,GLIEKNIEL,GLIEKNIEL,,,12231019,DNA,9606,Homo sapiens
+69,20995,GLLGTLVQ,GLLGTLVQ,,,461854,Catenin beta-1,9606,Homo sapiens
+70,20996,GLLGTLVQL,GLLGTLVQL,,,461854,Catenin beta-1,9606,Homo sapiens
+71,21236,GLYPGLIWL,GLYPGLIWL,,,3122293,Interferon regulatory factor 6,9606,Homo sapiens
+72,21241,GLYSGVTTV,GLYSGVTTV,,,13676332,Ribonucleoside-diphosphate reductase M1 chain,9606,Homo sapiens
+73,21572,GPASQQLSGGYGG,GPASQQLSGGYGG,,,2500576,Heterogeneous nuclear ribonucleoprotein H2,9606,Homo sapiens
+74,21772,GPRTAALGLL,GPRTAALGLL,,,2493460,Reticulocalbin-2 precursor,9606,Homo sapiens
+75,21843,GPYGGGGQYF,GPYGGGGQYF,,,133254,Heterogeneous nuclear ribonucleoprotein A1,9606,Homo sapiens
+76,22259,GRYFRIQEV,GRYFRIQEV,,,SRC250691,mitochondrial ribosomal protein L20,9606,Homo sapiens
+77,23214,GVYDGEEHSV,GVYDGEEHSV,,,6016555,Melanoma-associated antigen B2,9606,Homo sapiens
+78,24465,HPKYKTEL,HPKYKTEL,,,136471,Tristetraproline,9606,Homo sapiens
+79,24854,HSTISLQM,HSTISLQM,,,6226844,Calponin-2,9606,Homo sapiens
+80,25454,IATVDSYVI,IATVDSYVI,,,3915888,Tenascin precursor,9606,Homo sapiens
+81,27007,ILDQKINEV,ILDQKINEV,,,118377,Ornithine decarboxylase,9606,Homo sapiens
+82,27142,ILKQKIALD,ILKQKIALD,,,SRC248682,Interleukin-6,9606,Homo sapiens
+83,27201,ILMEHIHKL,ILMEHIHKL,,,51338661,60S ribosomal protein L19,9606,Homo sapiens
+84,27377,ILTDITKGV,ILTDITKGV,,,119172,Elongation factor 2,9606,Homo sapiens
+85,27513,IMLEALERV,IMLEALERV,,,59800216,Small nuclear ribonucleoprotein G,9606,Homo sapiens
+86,27801,IPCLLISFL,IPCLLISFL,,,2506125,Neuronal acetylcholine receptor subunit alpha-3 precursor,9606,Homo sapiens
+87,28114,IPYHIVNIV,IPYHIVNIV,,,19860217,"Seryl-tRNA synthetase, cytoplasmic",9606,Homo sapiens
+88,28869,ITEDMGHLKY,ITEDMGHLKY,,,SRC250686,proliferating cell nuclear antigen,9606,Homo sapiens
+89,29022,ITNTVGSSI,ITNTVGSSI,,,183082,glutamine:fructose-6-phosphate amidotransferase,9606,Homo sapiens
+90,32645,KPAFFAEKL,KPAFFAEKL,,,113944,Annexin A1,9606,Homo sapiens
+91,32882,KPSLPFTSL,KPSLPFTSL,,,400048,Cytokine receptor common gamma chain precursor,9606,Homo sapiens
+92,33838,KTRIIDVVY,KTRIIDVVY,,,36150,ribosomal protein S8,9606,Homo sapiens
+93,37182,LLDVPTAAV,LLDVPTAAV,,,12643406,Gamma-interferon-inducible lysosomal thiol reductase precursor,9606,Homo sapiens
+94,37183,LLDVTAAV,LLDVTAAV,,,SRC250796,"interferon, gamma-inducible protein",9606,Homo sapiens
+95,37474,LLLDVPTAAV,LLLDVPTAAV,,,12643406,Gamma-interferon-inducible lysosomal thiol reductase precursor,9606,Homo sapiens
+96,37475,LLLDVPTAAVQA,LLLDVPTAAVQA,,,12643406,Gamma-interferon-inducible lysosomal thiol reductase precursor,9606,Homo sapiens
+97,37765,LLSAEPVPA,LLSAEPVPA,,,728994,B-cell antigen receptor complex-associated protein beta chain,9606,Homo sapiens
+98,38568,LPKVKLAL,LPKVKLAL,,,SRC250682,"transmembrane protein 16H, isoform CRA_b",9606,Homo sapiens
+99,38636,LPQANRDTL,LPQANRDTL,,,21361397,Rac GTPase activating protein 1,9606,Homo sapiens
+100,38738,LPTSHPKIV,LPTSHPKIV,,,22256747,Deformed epidermal autoregulatory factor 1 homolog,9606,Homo sapiens
+101,39858,LTDPSQRLV,LTDPSQRLV,,,860988,beta-catenin,9606,Homo sapiens
+102,40467,LVMAPRTVL,LVMAPRTVL,,,122162,"HLA class I histocompatibility antigen, B-7 alpha chain precursor",9606,Homo sapiens
+103,41699,MIEPRTLQY,MIEPRTLQY,,,50403607,40S ribosomal protein S16,9606,Homo sapiens
+104,42921,MVDGTLLLL,MVDGTLLLL,,,34395942,"HLA class I histocompatibility antigen, alpha chain E precursor",9606,Homo sapiens
+105,44901,NLTISDVSV,NLTISDVSV,,,547937,Mucin-1 precursor,9606,Homo sapiens
+106,44948,NLYPFVKTV,NLYPFVKTV,,,23831360,Bifunctional purine biosynthesis protein PURH,9606,Homo sapiens
+107,45441,NPNQNKNVAL,NPNQNKNVAL,,,20981691,ELAV-like protein 1,9606,Homo sapiens
+108,45552,NQFPGFKEV,NQFPGFKEV,,,134092,U1 small nuclear ribonucleoprotein A,9606,Homo sapiens
+109,51962,QPRYPVNSV,QPRYPVNSV,,,135538,T-complex protein 1 subunit alpha,9606,Homo sapiens
+110,54487,RLAVYIDRV,RLAVYIDRV,,,125962,Lamin-A/C,9606,Homo sapiens
+111,54920,RMLPHAPGV,RMLPHAPGV,,,2498443,Histone deacetylase 1,9606,Homo sapiens
+112,55385,RPYSNVSNL,RPYSNVSNL,,,O95248,SET binding factor 1,9606,Homo sapiens
+113,55556,RRFFPYYVY,RRFFPYYVY,,,130853,Proteasome subunit beta type-1 precursor,9606,Homo sapiens
+114,55602,RRHWGGNVL,RRHWGGNVL,,,54039239,60S ribosomal protein L7a,9606,Homo sapiens
+115,57469,SEIDLILGY,SEIDLILGY,,,SRC248915,cytochrome P450 2D6,9606,Homo sapiens
+116,57470,SEIDTVAKY,SEIDTVAKY,,,SRC250678,E3 ubiquitin-protein ligase,9606,Homo sapiens
+117,58547,SIIGRLLEV,SIIGRLLEV,,,30582097,"protein phosphatase 1, catalytic subunit, alpha isoform",9606,Homo sapiens
+118,58995,SLAGGIIGV,SLAGGIIGV,,,48429103,Heterogeneous nuclear ribonucleoprotein K,9606,Homo sapiens
+119,59100,SLFPGKLEV,SLFPGKLEV,,,18202493,Protein flightless-1 homolog,9606,Homo sapiens
+120,59170,SLIGHLQTL,SLIGHLQTL,,,2499746,Dual specificity protein phosphatase 5,9606,Homo sapiens
+121,59255,SLLGGDVVSV,SLLGGDVVSV,,,14195584,TSC22 domain family protein 3,9606,Homo sapiens
+122,59295,SLLPPDALVGL,SLLPPDALVGL,,,20141794,Protein transport protein Sec23B,9606,Homo sapiens
+123,59296,SLLPPTALVGL,SLLPPTALVGL,,,Q15436,Protein transport protein Sec23A,9606,Homo sapiens
+124,59453,SLSEKTVLL,SLSEKTVLL,,,116021,CD59 glycoprotein precursor,9606,Homo sapiens
+125,59582,SLWGQPAEA,SLWGQPAEA,,,461675,Collagen alpha-5,9606,Homo sapiens
+126,59979,SPALPGLKL,SPALPGLKL,,,21264086,Tumor necrosis factor receptor superfamily member 13B,9606,Homo sapiens
+127,60103,SPKLPVSSL,SPKLPVSSL,,,12230034,AT-rich interactive domain-containing protein 3A,9606,Homo sapiens
+128,60166,SPNQARAQAAL,SPNQARAQAAL,,,131528,Polypyrimidine tract-binding protein 1,9606,Homo sapiens
+129,60288,SPTQPIQL,SPTQPIQL,,,20141265,Protein ADRM1,9606,Homo sapiens
+130,60347,SPYQNIKIL,SPYQNIKIL,,,8247960,Spermine synthase,9606,Homo sapiens
+131,60974,SSEQTFMYY,SSEQTFMYY,,,118377,Ornithine decarboxylase,9606,Homo sapiens
+132,61503,SSYTTTTTI,SSYTTTTTI,,,21431730,Acyl-CoA desaturase,9606,Homo sapiens
+133,61588,STEPVNILY,STEPVNILY,,,SRC250683,schlafen family member 5 ,9606,Homo sapiens
+134,61926,STTAICATGL,STTAICATGL,,,10720340,Ubiquitin carboxyl-terminal hydrolase 3,9606,Homo sapiens
+135,65151,TLWVDPYEV,TLWVDPYEV,,,59799172,Protein BTG1,9606,Homo sapiens
+136,65727,TPQSNRPVM,TPQSNRPVM,,,133326,DNA-directed RNA polymerase II subunit RPB1,9606,Homo sapiens
+137,66995,TVFDAKRLIGR,TVFDAKRLIGR,,,123648,Heat shock cognate 71 kDa protein,9606,Homo sapiens
+138,69939,VMDSKIVQV,VMDSKIVQV,,,20141571,Importin subunit alpha-1,9606,Homo sapiens
+139,70243,VPAGGAVAV,VPAGGAVAV,,,133061,60S acidic ribosomal protein P2,9606,Homo sapiens
+140,70299,VPGAGSVPAI,VPGAGSVPAI,,,115844,Nuclear transcription factor Y subunit alpha,9606,Homo sapiens
+141,70348,VPKLKVCAL,VPKLKVCAL,,,548749,60S ribosomal protein L18,9606,Homo sapiens
+142,70476,VPSEPGGVL,VPSEPGGVL,,,131469,Tyrosine-protein phosphatase non-receptor type 6,9606,Homo sapiens
+143,70902,VSDIVGPDGLVY,VSDIVGPDGLVY,,,14549159,rRNA 2'-O-methyltransferase fibrillarin,9606,Homo sapiens
+144,71222,VSYGSIVTY,VSYGSIVTY,,,181940,CR2/CD21/C3d/Epstein-Barr virus receptor precursor,9606,Homo sapiens
+145,73803,YFDPANGKF,YFDPANGKF,,,119172,Elongation factor 2,9606,Homo sapiens
+146,74794,YLLPAIVHI,YLLPAIVHI,,,197692465,ATP-dependent RNA helicase DDX5,9606,Homo sapiens
+147,75248,YPAGFMDV,YPAGFMDV,,,133948,"40S ribosomal protein S4, Y isoform 1",9606,Homo sapiens
+148,76078,YTIPPGHQV,YTIPPGHQV,,,3915660,Cytochrome P450 51A1,9606,Homo sapiens
+149,78935,AVPDEIPPL,AVPDEIPPL,,,17865718,Heat shock protein HSP 90-beta,9606,Homo sapiens
+150,78965,ETFNTPAHYV,ETFNTPAHYV,,,PT10005625,"actin, gamma-enteric smooth muscle propeptide",9606,Homo sapiens
+151,78966,ETVAVGVIKAV,ETVAVGVIKAV,,,PT10006130,elongation factor 1-alpha 1,9606,Homo sapiens
+152,78969,FAYDGKDYI,FAYDGKDYI,,,231398,"HLA class I histocompatibility antigen, B-39 alpha chain precursor",9606,Homo sapiens
+153,78970,FAYDGKDYL,FAYDGKDYL,,,34395942,"HLA class I histocompatibility antigen, alpha chain E precursor",9606,Homo sapiens
+154,78974,FQLEINVRL,FQLEINVRL,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+155,78975,FVLPELPSV,FVLPELPSV,,,1723119,Uncharacterized protein KIAA0174,9606,Homo sapiens
+156,79004,KQLDDLKVEL,KQLDDLKVEL,,,1173039,60S ribosomal protein L35,9606,Homo sapiens
+157,79091,STLHLVRL,STLHLVRL,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+158,79129,YVISVVFRL,YVISVVFRL,,,117688,Gap junction beta-1 protein,9606,Homo sapiens
+159,95009,EEFGRAFSF,EEFGRAFSF,,,74720015,MHC class II HLA-DPA1 antigen,9606,Homo sapiens
+160,95010,EEPTVIKKY,EEPTVIKKY,,,55957200,sorting nexin 5,9606,Homo sapiens
+161,98989,RRLPIFSRL,RRLPIFSRL,,,146291085,Butyrate response factor 2,9606,Homo sapiens
+162,100882,GIVEQCCTSI,GIVEQCCTSI,,,124617,Insulin precursor,9606,Homo sapiens
+163,100920,HLVEALYLV,HLVEALYLV,,,124617,Insulin precursor,9606,Homo sapiens
+164,101241,SLQKRGIVEQ,SLQKRGIVEQ,,,124617,Insulin precursor,9606,Homo sapiens
+165,101242,SLQPLALEG,SLQPLALEG,,,124617,Insulin precursor,9606,Homo sapiens
+166,101248,SLYQLENYC,SLYQLENYC,,,124617,Insulin precursor,9606,Homo sapiens
+167,103041,ALWGPDPAAA,ALWGPDPAAA,,,124617,Insulin precursor,9606,Homo sapiens
+168,103728,WGPDPAAA,WGPDPAAA,,,124617,Insulin precursor,9606,Homo sapiens
+169,115117,TRFSYAEYF,TRFSYAEYF,,,20531999,Ankyrin repeat and SOCS box protein 2,9606,Homo sapiens
+170,116519,SMTLAIHEI,SMTLAIHEI,,,74739483,Sphingolipid delta(4)-desaturase DES1,9606,Homo sapiens
+171,116605,VNIPFVRL,VNIPFVRL,,,28626521,NFX1-type zinc finger-containing protein 1,9606,Homo sapiens
+172,119747,ALMEGGENGPW,ALMEGGENGPW,,,74748862,Acyl-CoA dehydrogenase family member 10,9606,Homo sapiens
+173,119748,ALMLAISHGRQ,ALMLAISHGRQ,,,74749039,KN motif and ankyrin repeat domain-containing protein 3,9606,Homo sapiens
+174,119750,ALYSGVHKK,ALYSGVHKK,,,145559526,SAM and SH3 domain-containing protein 1,9606,Homo sapiens
+175,119763,ASSSVLSSPA,ASSSVLSSPA,,,4688923,zinc finger protein SALL1,9606,Homo sapiens
+176,119767,ATALPTGTSK,ATALPTGTSK,,,46577493,E3 ubiquitin-protein ligase SIAH1,9606,Homo sapiens
+177,119768,ATANQIILK,ATANQIILK,,,20069355,muscleblind-like protein MLP1,9606,Homo sapiens
+178,119770,ATIIDILTK,ATIIDILTK,,,113944,Annexin A1,9606,Homo sapiens
+179,119771,ATVAGVHVK,ATVAGVHVK,,,258679435,cytochrome c oxidase assembly factor-like,9606,Homo sapiens
+180,119773,ATVTPSPVK,ATVTPSPVK,,,119611985,"nuclear casein kinase and cyclin-dependent kinase substrate 1, isoform CRA_b",9606,Homo sapiens
+181,119774,AVALPLQTK,AVALPLQTK,,,38257903,Pleiotropic regulator 1,9606,Homo sapiens
+182,119777,AVILPPLSPYFK,AVILPPLSPYFK,,,6093489,NADH dehydrogenase,9606,Homo sapiens
+183,119778,AVQRTLLEK,AVQRTLLEK,,,119049,CD99 antigen,9606,Homo sapiens
+184,119779,AVTDVIIAK,AVTDVIIAK,,,183439,guanine nucleotide-binding regulatory protein 2,9606,Homo sapiens
+185,119781,AVYSHVIQK,AVYSHVIQK,,,229462819,L-serine dehydratase/L-threonine deaminase,9606,Homo sapiens
+186,119782,AWKRAEAIESSL,AWKRAEAIESSL,,,121941227,CENPJ protein,9606,Homo sapiens
+187,119788,CPLSLAAQLD,CPLSLAAQLD,,,148887434,SH3 and multiple ankyrin repeat domains protein 3,9606,Homo sapiens
+188,119799,DLPSEASASTAGP,DLPSEASASTAGP,,,74729908,"CDNA FLJ35444 fis, clone SMINT2003505",9606,Homo sapiens
+189,119800,DLPWFRTLSW,DLPWFRTLSW,,,3123204,Phosphatidate cytidylyltransferase 1,9606,Homo sapiens
+190,119802,DLSQVAAISNDLK,DLSQVAAISNDLK,,,62511894,Neurofilament light polypeptide,9606,Homo sapiens
+191,119808,DTDHYFLRY,DTDHYFLRY,,,44888284,GPI transamidase component PIG-T,9606,Homo sapiens
+192,119809,DTGILDSIGRF,DTGILDSIGRF,,,17378805,Myelin basic protein,9606,Homo sapiens
+193,119818,DVIGDLHQCQ,DVIGDLHQCQ,,,51316668,Protein unc-13 homolog D,9606,Homo sapiens
+194,119819,DVIRLIMQY,DVIRLIMQY,,,109939732,WD40 repeat-containing protein SMU1,9606,Homo sapiens
+195,119836,ELINNELSHF,ELINNELSHF,,,134138,Protein S100-B,9606,Homo sapiens
+196,119842,ERIAGLEQED,ERIAGLEQED,,,38258608,NAD-dependent deacetylase sirtuin-2,9606,Homo sapiens
+197,119848,ETDLLDIRSEY,ETDLLDIRSEY,,,1703322,Annexin A11,9606,Homo sapiens
+198,119859,FGESLPARF,FGESLPARF,,,38258608,NAD-dependent deacetylase sirtuin-2,9606,Homo sapiens
+199,119884,FTRSLFVN,FTRSLFVN,,,94730425,"Spectrin alpha chain, brain",9606,Homo sapiens
+200,119885,FVNDIFERI,FVNDIFERI,,,238624110,"histone cluster 2, H2bf isoform b",9606,Homo sapiens
+201,119887,FVQMMTAK,FVQMMTAK,,,49037474,Calmodulin,9606,Homo sapiens
+202,119915,GTADVHFER,GTADVHFER,,,48429165,THO complex subunit 4,9606,Homo sapiens
+203,119916,GTFGGLGSK,GTFGGLGSK,,,160332335,Neuroblast differentiation-associated protein AHNAK,9606,Homo sapiens
+204,119917,GTINIVHPK,GTINIVHPK,,,20141815,Phosphoserine aminotransferase,9606,Homo sapiens
+205,119919,GVIDVITKTW,GVIDVITKTW,,,34223740,Mitochondrial folate transporter/carrier,9606,Homo sapiens
+206,119928,HIILVLSGK,HIILVLSGK,,,121942060,C447E6.1,9606,Homo sapiens
+207,119931,HSERHVLLY,HSERHVLLY,,,30913097,Histone deacetylase 7,9606,Homo sapiens
+208,119938,IFANAHTYH,IFANAHTYH,,,52783535,Serine/threonine-protein phosphatase 2A 55 kDa regulatory subunit B alpha isoform,9606,Homo sapiens
+209,119940,IFEKSFVN,IFEKSFVN,,,543720,Serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit alpha,9606,Homo sapiens
+210,119946,IIYKGGTSR,IIYKGGTSR,,,121116,Gelsolin,9606,Homo sapiens
+211,119949,IPMGKSMLV,IPMGKSMLV,,,124255,Insulin-like growth factor II,9606,Homo sapiens
+212,119951,IPNKNRAEQL,IPNKNRAEQL,,,85700443,Tight junction protein ZO-1,9606,Homo sapiens
+213,119957,ISKLSAKFGGQA,ISKLSAKFGGQA,,,6686278,Hsc70-interacting protein,9606,Homo sapiens
+214,119964,ITANATEPQKAEN,ITANATEPQKAEN,,,20138342,FXYD domain-containing ion transport regulator 6,9606,Homo sapiens
+215,119968,IVAGTLTNK,IVAGTLTNK,,,90110040,"NADH dehydrogenase [ubiquinone] iron-sulfur protein 7, mitochondrial",9606,Homo sapiens
+216,119986,KIADRFLLY,KIADRFLLY,,,48428992,LIM domain transcription factor LMO4,9606,Homo sapiens
+217,119996,KPRDVSSVEL,KPRDVSSVEL,,,116242799,"Spectrin beta chain, brain 1",9606,Homo sapiens
+218,120007,KTYGEIFEK,KTYGEIFEK,,,6093464,NADH dehydrogenase [ubiquinone] 1 subunit C2,9606,Homo sapiens
+219,120015,LASGVHGLPLL,LASGVHGLPLL,,,119571162,"porcupine homolog (Drosophila), isoform CRA_a",9606,Homo sapiens
+220,120019,LDTHPLPLVEV,LDTHPLPLVEV,,,158706354,Threonine synthase-like 2,9606,Homo sapiens
+221,120025,LFALTLPIW,LFALTLPIW,,,108936015,C-X-C chemokine receptor type 1,9606,Homo sapiens
+222,120061,LGSVAGIFNYY,LGSVAGIFNYY,,,SRC247653,arachidonate 5-lipoxygenase-activating protein,9606,Homo sapiens
+223,120065,LILPEAVGGTVF,LILPEAVGGTVF,,,74749893,Fatty acid 2-hydroxylase,9606,Homo sapiens
+224,120073,LLPPPPPVAR,LLPPPPPVAR,,,258589175,nuclear factor 1-X splice variant X3,9606,Homo sapiens
+225,120083,LRPIQALGTEY,LRPIQALGTEY,,,224471888,IgGFc-binding protein,9606,Homo sapiens
+226,120088,LTDRELEEY,LTDRELEEY,,,12644231,Alpha-adducin,9606,Homo sapiens
+227,120090,LVEAKQYII,LVEAKQYII,,,SRC247654,RIG-like 5-6,9606,Homo sapiens
+228,120100,MPILGLGTW,MPILGLGTW,,,74705506,Aldose reductase,9606,Homo sapiens
+229,120106,NEIEDTFRQF,NEIEDTFRQF,,,1395162,vacuolar ATPase,9606,Homo sapiens
+230,120113,NRITIPVQTF,NRITIPVQTF,,,121135,Glial fibrillary acidic protein,9606,Homo sapiens
+231,120114,NTDSPLRY,NTDSPLRY,,,125969,40S ribosomal protein SA,9606,Homo sapiens
+232,120115,NTEEEGLKY,NTEEEGLKY,,,74736370,BCLAF1 protein,9606,Homo sapiens
+233,120151,QLYMIQKKS,QLYMIQKKS,,,118595707,Membrane-associated phosphatidylinositol transfer protein 1,9606,Homo sapiens
+234,120152,QLYWSHPRK,QLYWSHPRK,,,50403626,40S ribosomal protein S29,9606,Homo sapiens
+235,120157,QSMDSKLSGRY,QSMDSKLSGRY,,,74735316,Small acidic protein,9606,Homo sapiens
+236,120160,QVADVVVSRW,QVADVVVSRW,,,269849686,Fatty acid synthase,9606,Homo sapiens
+237,120161,QVLGVVARAA,QVLGVVARAA,,,119568098,"mitochondrial translational release factor 1-like, isoform CRA_b",9606,Homo sapiens
+238,120176,RLYPWGVVEV,RLYPWGVVEV,,,2500769,Septin-2,9606,Homo sapiens
+239,120183,RRKSSGGKGGSY,RRKSSGGKGGSY,,,1160934,lymphocyte antigen,9606,Homo sapiens
+240,120198,SGCDLEEIPLD,SGCDLEEIPLD,,,74725927,BCL2-like 14 isoform 1 variant,9606,Homo sapiens
+241,120202,SHPPVEGSYA,SHPPVEGSYA,,,74707217,EBNA-2 co-activator variant,9606,Homo sapiens
+242,120203,SIFKQPVTK,SIFKQPVTK,,,74735447,Antigen NY-CO-41,9606,Homo sapiens
+243,120205,SITSVFITK,SITSVFITK,,,74707229,Transformation/transcription domain-associated protein variant,9606,Homo sapiens
+244,120222,STDPSVLGKY,STDPSVLGKY,,,3913825,Transcription factor HES-1,9606,Homo sapiens
+245,120224,STIEYVIQR,STIEYVIQR,,,20141794,Protein transport protein Sec23B,9606,Homo sapiens
+246,120225,STIGPEGVHQK,STIGPEGVHQK,,,124015203,Paralemmin-2,9606,Homo sapiens
+247,120228,SVFQQGMKNK,SVFQQGMKNK,,,114374,Sodium/potassium-transporting ATPase subunit alpha-1 precursor,9606,Homo sapiens
+248,120230,SVPEFPLSPPK,SVPEFPLSPPK,,,134973,Stathmin,9606,Homo sapiens
+249,120231,SVSPVVHVR,SVSPVVHVR,,,74755544,Stromal RNA regulating factor,9606,Homo sapiens
+250,120233,TAIRHHVL,TAIRHHVL,,,67460990,Nodal modulator 3,9606,Homo sapiens
+251,120238,TGILDSIGRF,TGILDSIGRF,,,17378805,Myelin basic protein,9606,Homo sapiens
+252,120239,TIIDLPGITRV,TIIDLPGITRV,,,127571,Interferon-induced GTP-binding protein Mx2,9606,Homo sapiens
+253,120240,TIQKSSLDQL,TIQKSSLDQL,,,12643717,Integrin alpha-D,9606,Homo sapiens
+254,120242,TLLGDFIYW,TLLGDFIYW,,,152032559,Low-density lipoprotein receptor-related protein 5-like protein,9606,Homo sapiens
+255,120251,TTGILSILFY,TTGILSILFY,,,15825166,USH3A isoform b,9606,Homo sapiens
+256,120256,TTYNYAVLK,TTYNYAVLK,,,20141466,Neuronal membrane glycoprotein M6-b,9606,Homo sapiens
+257,120257,TVFSTHFM,TVFSTHFM,,,119609489,"ATP-binding cassette, sub-family A (ABC1), member 5, isoform CRA_c",9606,Homo sapiens
+258,120278,VIRLLLASGA,VIRLLLASGA,,,109940219,Ankyrin repeat domain-containing protein 29,9606,Homo sapiens
+259,120284,VLGDLFVRD,VLGDLFVRD,,,74722896,Protein spinster homolog 3,9606,Homo sapiens
+260,120294,VQMMTAK,VQMMTAK,,,49037474,Calmodulin,9606,Homo sapiens
+261,120298,VTASKAIIEK,VTASKAIIEK,,,12644231,Alpha-adducin,9606,Homo sapiens
+262,120299,VTMTASRML,VTMTASRML,,,74761895,Peflin,9606,Homo sapiens
+263,120300,VTNPDTGRY,VTNPDTGRY,,,2497301,Contactin-1,9606,Homo sapiens
+264,120302,VTSPIRASY,VTSPIRASY,,,5174555,microfibrillar-associated protein 3 isoform 1,9606,Homo sapiens
+265,120303,VTVFPIGIGDRY,VTVFPIGIGDRY,,,269849730,von Willebrand factor,9606,Homo sapiens
+266,120308,VVIRGNSIIML,VVIRGNSIIML,,,59800216,Small nuclear ribonucleoprotein G,9606,Homo sapiens
+267,120310,VYRVNSYW,VYRVNSYW,,,74752900,Histidine triad nucleotide-binding protein 3,9606,Homo sapiens
+268,120320,WTTGTISSQRF,WTTGTISSQRF,,,SRC247646,"epoxide hydrolase 1, microsomal",9606,Homo sapiens
+269,120333,YEVSQLKD,YEVSQLKD,,,23396498,Cytosolic non-specific dipeptidase,9606,Homo sapiens
+270,120335,YGMPRQIL,YGMPRQIL,,,586000,Transgelin-2,9606,Homo sapiens
+271,120337,YIDEQFERY,YIDEQFERY,,,2500769,Septin-2,9606,Homo sapiens
+272,120338,YIKEDEALPS,YIKEDEALPS,,,13633973,Testisin,9606,Homo sapiens
+273,120341,YLLLLLLLS,YLLLLLLLS,,,1706818,SL cytokine,9606,Homo sapiens
+274,120344,YQKVVAGVANALA,YQKVVAGVANALA,,,256028940,beta-globin,9606,Homo sapiens
+275,120351,YTDVPFHNQY,YTDVPFHNQY,,,67477354,Noelin-2,9606,Homo sapiens
+276,120352,YTERDASGMLY,YTERDASGMLY,,,6225242,Serine/threonine-protein kinase DCLK1,9606,Homo sapiens
+277,122782,GRFDVKIEV,GRFDVKIEV,,,114392,Sodium/potassium-transporting ATPase subunit beta-1,9606,Homo sapiens
+278,122818,KRFKGQIGL,KRFKGQIGL,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+279,122823,KRVELNGGL,KRVELNGGL,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+280,122890,RRVGXQVNL,RRVGXQVNL,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+281,127922,AIIGGTFTV,AIIGGTFTV,,,51701446,Endoplasmic reticulum-Golgi intermediate compartment protein 1,9606,Homo sapiens
+282,127928,ALDKATVLL,ALDKATVLL,,,74725796,Programmed cell death protein 4,9606,Homo sapiens
+283,127929,ALKDKIEKA,ALKDKIEKA,,,119360,Endoplasmin,9606,Homo sapiens
+284,127930,ALNDHFVKL,ALNDHFVKL,,,120649,Glyceraldehyde-3-phosphate dehydrogenase,9606,Homo sapiens
+285,127931,ALNEKLVNL,ALNEKLVNL,,,6685511,Eukaryotic translation initiation factor 3 subunit F,9606,Homo sapiens
+286,127937,AVSDGVIKV,AVSDGVIKV,,,116848,Cofilin-1,9606,Homo sapiens
+287,127969,FAGDDAPRA,FAGDDAPRA,,,54036678,"Actin, cytoplasmic 2",9606,Homo sapiens
+288,127975,FIQTQQLHAA,FIQTQQLHAA,,,20178296,Pyruvate kinase isozymes M1/M2,9606,Homo sapiens
+289,127976,FLAEEGFYKF,FLAEEGFYKF,,,182676409,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A,9606,Homo sapiens
+290,127977,FLDLEPIPGA,FLDLEPIPGA,,,38258193,"5'(3')-deoxyribonucleotidase, cytosolic type",9606,Homo sapiens
+291,127978,FLLSLLIL,FLLSLLIL,,,34922183,CKLF-like MARVEL transmembrane domain-containing protein 6,9606,Homo sapiens
+292,127979,FLPSYIIDV,FLPSYIIDV,,,23503048,Cleavage and polyadenylation specificity factor subunit 1,9606,Homo sapiens
+293,127985,FVFPGELL,FVFPGELL,,,21542389,Neutral amino acid transporter B(0),9606,Homo sapiens
+294,127992,GIVEGLMTTV,GIVEGLMTTV,,,120649,Glyceraldehyde-3-phosphate dehydrogenase,9606,Homo sapiens
+295,127993,GIWGFIKGV,GIWGFIKGV,,,74732288,Protein PRRC1,9606,Homo sapiens
+296,127995,GLDIPTVQV,GLDIPTVQV,,,74753527,Probable ATP-dependent RNA helicase DDX49,9606,Homo sapiens
+297,127996,GLFDTAIS,GLFDTAIS,,,238054372,Nuclear pore complex protein Nup160,9606,Homo sapiens
+298,127997,GLFGGAGVGKTVL,GLFGGAGVGKTVL,,,114549,"ATP synthase subunit beta, mitochondrial",9606,Homo sapiens
+299,127998,GLIDGRLTI,GLIDGRLTI,,,6648110,Signal peptidase complex subunit 2,9606,Homo sapiens
+300,128000,GLIKGSGTAEV,GLIKGSGTAEV,,,20178296,Pyruvate kinase isozymes M1/M2,9606,Homo sapiens
+301,128002,GLQDFDLLRV,GLQDFDLLRV,,,239938658,Protein kinase C iota type,9606,Homo sapiens
+302,128008,GQIGQLPQA,GQIGQLPQA,,,223590203,Histone acetyltransferase p300,9606,Homo sapiens
+303,128011,GVLPNIQAV,GVLPNIQAV,,,12643341,Histone H2A type 1-C,9606,Homo sapiens
+304,128021,IIMLEALERV,IIMLEALERV,,,59800216,Small nuclear ribonucleoprotein G,9606,Homo sapiens
+305,128022,IINEPTAAA,IINEPTAAA,,,23831140,Heat shock 70 kDa protein 1L,9606,Homo sapiens
+306,128023,IIPASTGAA,IIPASTGAA,,,120649,Glyceraldehyde-3-phosphate dehydrogenase,9606,Homo sapiens
+307,128025,ILAADFEIGHFL,ILAADFEIGHFL,,,1709337,Nucleosome assembly protein 1-like 1,9606,Homo sapiens
+308,128026,ILGYTEHQV,ILGYTEHQV,,,120649,Glyceraldehyde-3-phosphate dehydrogenase,9606,Homo sapiens
+309,128028,ILSGVVTKM,ILSGVVTKM,,,50403609,40S ribosomal protein S11,9606,Homo sapiens
+310,128034,KLDQDLNEV,KLDQDLNEV,,,29337005,Structural maintenance of chromosomes protein 3,9606,Homo sapiens
+311,128035,KLFDDDETGKISF,KLFDDDETGKISF,,,729052,Centrin-2,9606,Homo sapiens
+312,128036,KLIGDPNLEFV,KLIGDPNLEFV,,,51338598,GTP-binding nuclear protein Ran,9606,Homo sapiens
+313,128037,KLMELHGEGSS,KLMELHGEGSS,,,47117764,40S ribosomal protein S3a,9606,Homo sapiens
+314,128040,KVFDPVPVGV,KVFDPVPVGV,,,116241330,ATP-dependent RNA helicase A,9606,Homo sapiens
+315,128045,LLDVPTAA,LLDVPTAA,,,12643406,Gamma-interferon-inducible lysosomal thiol reductase precursor,9606,Homo sapiens
+316,128046,LLDVTPLSL,LLDVTPLSL,,,123648,Heat shock cognate 71 kDa protein,9606,Homo sapiens
+317,128047,LLDVVHPA,LLDVVHPA,,,3041738,T-complex protein 1 subunit eta,9606,Homo sapiens
+318,128048,LLDVVHPAA,LLDVVHPAA,,,3041738,T-complex protein 1 subunit eta,9606,Homo sapiens
+319,128049,LLGPRLVLA,LLGPRLVLA,,,3915893,Transmembrane emp24 domain-containing protein 10,9606,Homo sapiens
+320,128052,LMTTVHAITAT,LMTTVHAITAT,,,120649,Glyceraldehyde-3-phosphate dehydrogenase,9606,Homo sapiens
+321,128062,NLAEKPKTV,NLAEKPKTV,,,61212960,Proteasome-associated protein ECM29 homolog,9606,Homo sapiens
+322,128063,NLDPAVHEV,NLDPAVHEV,,,34925430,GPN-loop GTPase 1,9606,Homo sapiens
+323,128064,NMVAKVDEV,NMVAKVDEV,,,51702773,60S ribosomal protein L10a,9606,Homo sapiens
+324,128096,RVPPPPPIA,RVPPPPPIA,,,108935845,Heterogeneous nuclear ribonucleoproteins C1/C2,9606,Homo sapiens
+325,128105,SLFEGTWY,SLFEGTWY,,,1708239,"Hydroxymethylglutaryl-CoA synthase, cytoplasmic",9606,Homo sapiens
+326,128106,SLFEGTWYL,SLFEGTWYL,,,1708239,"Hydroxymethylglutaryl-CoA synthase, cytoplasmic",9606,Homo sapiens
+327,128107,SLLDELL,SLLDELL,,,33302623,Sterol O-acyltransferase 1,9606,Homo sapiens
+328,128108,SLLDIIEKV,SLLDIIEKV,,,269849475,Tuberin,9606,Homo sapiens
+329,128109,SLLEKSLGL,SLLEKSLGL,,,17378996,Eukaryotic translation elongation factor 1 epsilon-1,9606,Homo sapiens
+330,128111,SMPDFDLHL,SMPDFDLHL,,,160332335,Neuroblast differentiation-associated protein AHNAK,9606,Homo sapiens
+331,128114,SQVPEVTTV,SQVPEVTTV,,,74762700,Phosphoinositide 3-kinase regulatory subunit 4,9606,Homo sapiens
+332,128118,SVIDYELIDQDA,SVIDYELIDQDA,,,113950,Annexin A2,9606,Homo sapiens
+333,128124,TLAEVERLKGL,TLAEVERLKGL,,,31077165,U2 small nuclear ribonucleoprotein A',9606,Homo sapiens
+334,128125,TLAEVSTRL,TLAEVSTRL,,,59803093,Serine/threonine-protein kinase SIK1,9606,Homo sapiens
+335,128126,TLAKYLMEL,TLAKYLMEL,,,116176,G2/mitotic-specific cyclin-B1,9606,Homo sapiens
+336,128127,TLQEVFEKATF,TLQEVFEKATF,,,90110781,Nucleolin,9606,Homo sapiens
+337,128128,TLWDIQKDLK,TLWDIQKDLK,,,126041,L-lactate dehydrogenase B chain,9606,Homo sapiens
+338,128129,TLWGIQKEL,TLWGIQKEL,,,126047,L-lactate dehydrogenase A chain,9606,Homo sapiens
+339,128130,TLYEHNNEL,TLYEHNNEL,,,20137527,Aladin,9606,Homo sapiens
+340,128137,VLPTETEVAPA,VLPTETEVAPA,,,269849673,Microtubule-associated protein 4,9606,Homo sapiens
+341,128142,VVQDGIVKA,VVQDGIVKA,,,20141713,"Peroxiredoxin-5, mitochondrial",9606,Homo sapiens
+342,128149,YAYDGKDYIA,YAYDGKDYIA,,,122162,"HLA class I histocompatibility antigen, B-7 alpha chain precursor",9606,Homo sapiens
+343,128153,YLFDSFF,YLFDSFF,,,4033707,"Carbamoyl-phosphate synthase [ammonia], mitochondrial",9606,Homo sapiens
+344,128154,YLFLGGIL,YLFLGGIL,,,20981681,Bax inhibitor 1,9606,Homo sapiens
+345,128158,YVPEDEDLKK,YVPEDEDLKK,,,74730697,Coiled-coil domain-containing protein 12,9606,Homo sapiens
+346,134313,AEDKENYKKF,AEDKENYKKF,,,153792590,"heat shock 90kDa protein 1, alpha isoform 1",9606,Homo sapiens
+347,134315,AEMGKGSFKY,AEMGKGSFKY,,,55584035,Elongation factor 1-alpha 1,9606,Homo sapiens
+348,134355,EEVDLSKDIQHW,EEVDLSKDIQHW,,,400979,Ribonucleoside-diphosphate reductase subunit M2,9606,Homo sapiens
+349,134356,EEVHDLERKY,EEVHDLERKY,,,2498672,Nucleosome assembly protein 1-like 4,9606,Homo sapiens
+350,134358,EEYNGGLVTV,EEYNGGLVTV,,,123797,Ig heavy chain V-I region EU,9606,Homo sapiens
+351,134379,FEQIIERF,FEQIIERF,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+352,134416,KEIKDILIQY,KEIKDILIQY,,,50403607,40S ribosomal protein S16,9606,Homo sapiens
+353,134453,NELNIIHKF,NELNIIHKF,,,90101442,U4/U6 small nuclear ribonucleoprotein Prp31,9606,Homo sapiens
+354,134609,YEGLLDYW,YEGLLDYW,,,7572967,immunoglobulin heavy chain variable region,9606,Homo sapiens
+355,135864,VNDIFERI,VNDIFERI,,,11036646,"H2B histone family, member S",9606,Homo sapiens
+356,136896,VLHDDLLEA,VLHDDLLEA,,,40807045,histocompatibility (minor) HA-1,9606,Homo sapiens
+357,137402,FIDSYICQV,FIDSYICQV,,,1661016,SMCY,9606,Homo sapiens
+358,137455,SPSVDKARAEL,SPSVDKARAEL,,,1661016,SMCY,9606,Homo sapiens
+359,137682,RRFFPYYV,RRFFPYYV,,,130853,Proteasome subunit beta type-1 precursor,9606,Homo sapiens
+360,137772,YLDPAQQNL,YLDPAQQNL,,,114573643,similar to BC39498_1,9606,Homo sapiens
+361,138420,GRHGVFLEL,GRHGVFLEL,,,119598676,"proteasome (prosome, macropain) 26S subunit, non-ATPase, 2, isoform CRA_a",9606,Homo sapiens
+362,138864,KIITYRNL,KIITYRNL,,,158259947,unnamed protein product,9606,Homo sapiens
+363,138869,KVLHFYNV,KVLHFYNV,,,119574901,"SEC24 related gene family, member C (S. cerevisiae), isoform CRA_b",9606,Homo sapiens
+364,138937,YIGEVLVSV,YIGEVLVSV,,,239582755,myosin-Ig,9606,Homo sapiens
+365,139237,RVWDLPGVLK,RVWDLPGVLK,,,158966691,centromere protein M isoform c,9606,Homo sapiens
+366,139608,SLPRGTSTPK,SLPRGTSTPK,,,SRC253639,Sp110 nuclear body protein,9606,Homo sapiens
+367,140715,MTEXYDYPKY + INDIST(X4),MTEXYDYPKY,I/L uncertainty,X4,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+368,140770,"XVDCXTEMY + INDIST(X1, X5)",XVDCXTEMY,I/L uncertainty,"X1, X5",SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+369,140849,FIDSYICQV + CYSTL(C7),FIDSYICQV,Cysteinylation,C7,1661016,SMCY,9606,Homo sapiens
+370,140850,FTESCEXCY + CYSTL(C8),FTESCEXCY,Cysteinylation,C8,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+371,140851,FXDTDTXCY + CYSTL(C8),FXDTDTXCY,Cysteinylation,C8,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+372,141408,RTLDKVLEV,RTLDKVLEV,,,286009,KIAA0020,9606,Homo sapiens
+373,146121,AALTGRTGPP,AALTGRTGPP,,,14495151,seven-transmembrane receptor Frizzled-5,9606,Homo sapiens
+374,146125,AEAERVGL,AEAERVGL,,,119581065,"topoisomerase (DNA) II alpha 170kDa, isoform CRA_a",9606,Homo sapiens
+375,146126,AEAFEAIPRAL,AEAFEAIPRAL,,,31418053,CCT8 protein,9606,Homo sapiens
+376,146127,AEAGAGSATEFQF,AEAGAGSATEFQF,,,74752896,Putative 40S ribosomal protein S10-like,9606,Homo sapiens
+377,146128,AEALERMFL,AEALERMFL,,,319739573,hemoglobin alpha-1 globin chain,9606,Homo sapiens
+378,146129,AEAPVQEEKL,AEAPVQEEKL,,,3721898,hJTB,9606,Homo sapiens
+379,146130,AEASMISKL,AEASMISKL,,,119600478,"cullin 1, isoform CRA_a",9606,Homo sapiens
+380,146131,AEDPAGLKV,AEDPAGLKV,,,20987696,TTF2 protein,9606,Homo sapiens
+381,146132,AEEDFYEKL,AEEDFYEKL,,,33469922,DNA replication licensing factor MCM7 isoform 2,9606,Homo sapiens
+382,146133,AEEKAAVTSL,AEEKAAVTSL,,,4885393,hemoglobin subunit epsilon,9606,Homo sapiens
+383,146134,AEELGHRDV,AEELGHRDV,,,152925911,cyclin-dependent kinase inhibitor 2A,9606,Homo sapiens
+384,146135,AEELPHIHAF,AEELPHIHAF,,,73622130,BolA-like protein 2,9606,Homo sapiens
+385,146136,AEGFLFVV,AEGFLFVV,,,34782868,ARNTL2 protein,9606,Homo sapiens
+386,146137,AEINNIIKI,AEINNIIKI,,,119584763,"topoisomerase (DNA) II beta 180kDa, isoform CRA_c",9606,Homo sapiens
+387,146138,AEIQGVIDA,AEIQGVIDA,,,33604035,AP3M2 protein,9606,Homo sapiens
+388,146139,AEKEFNETM,AEKEFNETM,,,12803467,jumonji domain containing 2A,9606,Homo sapiens
+389,146140,AEKLGGSAVI,AEKLGGSAVI,,,119594854,"cofilin 1 (non-muscle), isoform CRA_a",9606,Homo sapiens
+390,146141,AEKVEIATL,AEKVEIATL,,,119619571,"proteasome (prosome, macropain) subunit, alpha type, 4, isoform CRA_b",9606,Homo sapiens
+391,146142,AELIVQPEL,AELIVQPEL,,,298112758,desmoplakin Ia,9606,Homo sapiens
+392,146143,AEMIEKYFVSP,AEMIEKYFVSP,,,119631737,"sodium channel, voltage-gated, type III, alpha, isoform CRA_b",9606,Homo sapiens
+393,146144,AEMYGSVTEHPSPSPL,AEMYGSVTEHPSPSPL,,,62898766,Heterogeneous nuclear ribonucleoproteins C1/C2 (hnRNP C1 / hnRNP C2) variant,9606,Homo sapiens
+394,146145,AENEAETKL,AENEAETKL,,,119613715,"glutamyl-prolyl-tRNA synthetase, isoform CRA_a",9606,Homo sapiens
+395,146146,AENGFLPIHL,AENGFLPIHL,,,237681109,sodium/potassium-transporting ATPase subunit alpha-1 isoform c,9606,Homo sapiens
+396,146147,AENPDIFAV,AENPDIFAV,,,35920,REC1L,9606,Homo sapiens
+397,146148,AENPGKYNILGTNT,AENPGKYNILGTNT,,,119597533,"heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A), isoform CRA_b",9606,Homo sapiens
+398,146149,AEPLEIILHLP,AEPLEIILHLP,,,4826860,NHP2-like protein 1,9606,Homo sapiens
+399,146150,AEQAERYDDMASAM,AEQAERYDDMASAM,,,123238849,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide",9606,Homo sapiens
+400,146151,AEQQGKGVAL,AEQQGKGVAL,,,302699237,eukaryotic translation initiation factor 4 gamma 1 isoform 1,9606,Homo sapiens
+401,146152,AERVGAGAPV,AERVGAGAPV,,,510990,histone H2A,9606,Homo sapiens
+402,146153,AETSAERV,AETSAERV,,,83367077,mucin-16,9606,Homo sapiens
+403,146154,AEVEGKDLPEHAVL,AEVEGKDLPEHAVL,,,119597533,"heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A), isoform CRA_b",9606,Homo sapiens
+404,146155,AEVGDGTTSVTL,AEVGDGTTSVTL,,,261399877,T-complex protein 1 subunit eta isoform d,9606,Homo sapiens
+405,146156,AEVKKPGASMKV,AEVKKPGASMKV,,,323431581,immunoglobulin variable region,9606,Homo sapiens
+406,146157,AEVKRPGESLRI,AEVKRPGESLRI,,,4097066,IgE heavy chain,9606,Homo sapiens
+407,146158,AEVTVSASGLL,AEVTVSASGLL,,,37182034,SQFE253,9606,Homo sapiens
+408,146159,AEVVVKEGL,AEVVVKEGL,,,49065496,TSPYL,9606,Homo sapiens
+409,146160,AEVWSTTDAVTQV,AEVWSTTDAVTQV,,,SRC253370,hypothetical protein,9606,Homo sapiens
+410,146161,AEYGRLGLGEGAEEK,AEYGRLGLGEGAEEK,,,119628099,"regulator of chromosome condensation 1, isoform CRA_d",9606,Homo sapiens
+411,146162,AEYIQKNVQL,AEYIQKNVQL,,,119627813,"proteasome (prosome, macropain) subunit, beta type, 2, isoform CRA_b",9606,Homo sapiens
+412,146163,AGLQFPVGR,AGLQFPVGR,,,48146275,H2AFX,9606,Homo sapiens
+413,146180,CESCVDLLFV,CESCVDLLFV,,,1470082,cyclin G1 interacting protein,9606,Homo sapiens
+414,146186,DEATIRAIIAV,DEATIRAIIAV,,,269847874,probable ATP-dependent RNA helicase YTHDC2,9606,Homo sapiens
+415,146187,DEVGGEALGRLL,DEVGGEALGRLL,,,321271362,hemoglobin beta chain,9606,Homo sapiens
+416,146192,DKLLVNQTELFV,DKLLVNQTELFV,,,51972218,von Hippel-Lindau-like protein,9606,Homo sapiens
+417,146195,DMENEFLL,DMENEFLL,,,55662231,"zinc finger, MYM-type 2",9606,Homo sapiens
+418,146197,DNVPMFISQN,DNVPMFISQN,,,165932370,protocadherin Fat 4 precursor,9606,Homo sapiens
+419,146202,DTEVKTLKL,DTEVKTLKL,,,308199413,histone-lysine N-methyltransferase MLL isoform 1 precursor,9606,Homo sapiens
+420,146204,DTVKVKESF,DTVKVKESF,,,SRC255466,dedicator of cytokinesis 6,9606,Homo sapiens
+421,146205,EAEAVMLGQP,EAEAVMLGQP,,,119578955,"aconitase 1, soluble, isoform CRA_b",9606,Homo sapiens
+422,146206,EDALPPIVLRS,EDALPPIVLRS,,,57209933,serine/threonine kinase 19,9606,Homo sapiens
+423,146207,EDKIPLLVV,EDKIPLLVV,,,119615648,"v-ral simian leukemia viral oncogene homolog B (ras related; GTP binding protein), isoform CRA_b",9606,Homo sapiens
+424,146210,EEPFMPEE,EEPFMPEE,,,110349742,hypothetical protein LOC84281,9606,Homo sapiens
+425,146211,EEQQKQQLQ,EEQQKQQLQ,,,33242861,PAS domain containing protein 1,9606,Homo sapiens
+426,146216,EKAPAPAPE,EKAPAPAPE,,,3288916,aortic carboxypeptidase-like protein ACLP,9606,Homo sapiens
+427,146217,EKLERKEIQ,EKLERKEIQ,,,119576203,"protein kinase C, beta 1, isoform CRA_c",9606,Homo sapiens
+428,146218,EKLFEEKEKP,EKLFEEKEKP,,,38383015,TAF3 protein,9606,Homo sapiens
+429,146221,EPQNADKIK,EPQNADKIK,,,119593218,"serine/threonine kinase 23, isoform CRA_a",9606,Homo sapiens
+430,146222,ESAAVGSVVL,ESAAVGSVVL,,,66346693,protocadherin Fat 1 precursor,9606,Homo sapiens
+431,146226,ETVNRIMTL,ETVNRIMTL,,,52693923,olfactory receptor 6M1,9606,Homo sapiens
+432,146231,FDSDATSPR,FDSDATSPR,,,325301463,MHC class I antigen,9606,Homo sapiens
+433,146232,FEDEEIKRL,FEDEEIKRL,,,282160147,OSF-2,9606,Homo sapiens
+434,146233,FEDELHPDL,FEDELHPDL,,,119624323,"peptidylprolyl isomerase (cyclophilin)-like 1, isoform CRA_b",9606,Homo sapiens
+435,146234,FEDENFIL,FEDENFIL,,,119581483,"peptidylprolyl isomerase A-like, isoform CRA_b",9606,Homo sapiens
+436,146235,FEDESFAV,FEDESFAV,,,119631671,"peptidylprolyl isomerase G (cyclophilin G), isoform CRA_a",9606,Homo sapiens
+437,146236,FEEIYPPEV,FEEIYPPEV,,,311033358,Cyclin-A2,9606,Homo sapiens
+438,146237,FEKTQEEL,FEKTQEEL,,,SRC255464,Apolipoprotein A-II,9606,Homo sapiens
+439,146238,FEKTQEELTPFF,FEKTQEELTPFF,,,SRC255464,Apolipoprotein A-II,9606,Homo sapiens
+440,146239,FEPLNKPDSTIQ,FEPLNKPDSTIQ,,,119617510,"ubiquitin specific peptidase 15, isoform CRA_a",9606,Homo sapiens
+441,146242,FGSGAGASCVNLL,FGSGAGASCVNLL,,,119610602,"neuroligin 2, isoform CRA_b",9606,Homo sapiens
+442,146243,FIVNCTVNVQD,FIVNCTVNVQD,,,119632079,"LY6/PLAUR domain containing 1, isoform CRA_b",9606,Homo sapiens
+443,146259,GAEPKPKPQL,GAEPKPKPQL,,,119621218,"HS1-binding protein 3, isoform CRA_b",9606,Homo sapiens
+444,146261,GANALLFVGV,GANALLFVGV,,,119581446,"adenylate cyclase 1 (brain), isoform CRA_a",9606,Homo sapiens
+445,146264,GEALGRLL,GEALGRLL,,,321271362,hemoglobin beta chain,9606,Homo sapiens
+446,146265,GEAPPGTPP,GEAPPGTPP,,,28279079,zinc finger protein 428,9606,Homo sapiens
+447,146266,GEDVVTLL,GEDVVTLL,,,119620009,"hexokinase 2, isoform CRA_b",9606,Homo sapiens
+448,146267,GEDYDERVLP,GEDYDERVLP,,,46360168,prohibitin,9606,Homo sapiens
+449,146268,GEEGYGRSL,GEEGYGRSL,,,119618667,"anaphase promoting complex subunit 5, isoform CRA_c",9606,Homo sapiens
+450,146270,GEELQMEPV,GEELQMEPV,,,119577490,"Rab acceptor 1 (prenylated), isoform CRA_a",9606,Homo sapiens
+451,146271,GEGKPTPAL,GEGKPTPAL,,,154354966,mitochondrial inner membrane protein isoform 3,9606,Homo sapiens
+452,146272,GEIEAIEL,GEIEAIEL,,,62898411,heterogeneous nuclear ribonucleoprotein AB isoform a variant,9606,Homo sapiens
+453,146273,GEIIGVKVL,GEIIGVKVL,,,119574769,"pyrophosphatase (inorganic) 1, isoform CRA_b",9606,Homo sapiens
+454,146274,GEKFEDENFIL,GEKFEDENFIL,,,119581483,"peptidylprolyl isomerase A-like, isoform CRA_b",9606,Homo sapiens
+455,146275,GEPRFITV,GEPRFITV,,,329581948,MHC class I antigen,9606,Homo sapiens
+456,146276,GEVDPKVAL,GEVDPKVAL,,,180233,cell adhesion protein (SQM1),9606,Homo sapiens
+457,146277,GEVDVEQHTL,GEVDVEQHTL,,,54697116,cyclin B1,9606,Homo sapiens
+458,146278,GEYLPSKGAGNNVL,GEYLPSKGAGNNVL,,,119628648,"zinc finger protein 198, isoform CRA_a",9606,Homo sapiens
+459,146279,GGGYTIRNV,GGGYTIRNV,,,1665723,RPD3 protein,9606,Homo sapiens
+460,146290,GRPPEMPV,GRPPEMPV,,,119630064,"bromodomain and WD repeat domain containing 1, isoform CRA_c",9606,Homo sapiens
+461,146294,GTGASGSFKL,GTGASGSFKL,,,120659986,"histone cluster 1, H1t",9606,Homo sapiens
+462,146301,HAGLDAFLV,HAGLDAFLV,,,6841290,HSPC320,9606,Homo sapiens
+463,146304,HEDIKKGILL,HEDIKKGILL,,,21410275,minichromosome maintenance complex component 4,9606,Homo sapiens
+464,146305,HEEAVSVDRVL,HEEAVSVDRVL,,,11602392,methylthioadenosine phosphorylase,9606,Homo sapiens
+465,146307,HEQEEIFKL,HEQEEIFKL,,,119631625,"tousled-like kinase 1, isoform CRA_a",9606,Homo sapiens
+466,146308,HERFPFEIVKMEF,HERFPFEIVKMEF,,,119611325,"dynamin 3, isoform CRA_e",9606,Homo sapiens
+467,146309,HEVLMLLP,HEVLMLLP,,,192758148,beta chimaerin isoform B2-CHNdel ex6-11p,9606,Homo sapiens
+468,146310,HLSVSTPV,HLSVSTPV,,,119572141,"spen homolog, transcriptional regulator (Drosophila)",9606,Homo sapiens
+469,146312,HREVCHPEV,HREVCHPEV,,,SRC253370,hypothetical protein,9606,Homo sapiens
+470,146315,HWPFGALL,HWPFGALL,,,4557857,somatostatin receptor type 1,9606,Homo sapiens
+471,146320,IEDGKVVTV,IEDGKVVTV,,,5729953,nuclear migration protein nudC,9606,Homo sapiens
+472,146321,IEENTGHTF,IEENTGHTF,,,15929448,ALKBH3 protein,9606,Homo sapiens
+473,146322,IEERGVKL,IEERGVKL,,,119591664,"septin 2, isoform CRA_a",9606,Homo sapiens
+474,146323,IEKQPPQVL,IEKQPPQVL,,,94404553,signal transducer and activator of transcription 5A variant delta5,9606,Homo sapiens
+475,146324,IEVDGKQVEL,IEVDGKQVEL,,,55962165,"ras homolog gene family, member C",9606,Homo sapiens
+476,146325,IEVDPDTKEML,IEVDPDTKEML,,,119582857,"ribosomal protein S17, isoform CRA_a",9606,Homo sapiens
+477,146327,IKLYKKKTGKDV,IKLYKKKTGKDV,,,119608027,"heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa), isoform CRA_b",9606,Homo sapiens
+478,146334,INEDRLPHLL,INEDRLPHLL,,,194306567,replication factor C subunit 5 isoform 2,9606,Homo sapiens
+479,146340,IRLLEEAL,IRLLEEAL,,,126032350,DNA-dependent protein kinase catalytic subunit isoform 2,9606,Homo sapiens
+480,146360,KAYGDRIERM,KAYGDRIERM,,,15010550,heat shock protein gp96 precursor,9606,Homo sapiens
+481,146363,KEDDVRQYVV,KEDDVRQYVV,,,119579040,"ribosomal protein S6, isoform CRA_b",9606,Homo sapiens
+482,146364,KEDEDDKTVL,KEDEDDKTVL,,,61656607,tumor rejection antigen (gp96) 1,9606,Homo sapiens
+483,146365,KEEGPKEMTL,KEEGPKEMTL,,,119626897,"SERPINE1 mRNA binding protein 1, isoform CRA_d",9606,Homo sapiens
+484,146366,KEEPPQPQL,KEEPPQPQL,,,119596531,"chromosome 20 open reading frame 24, isoform CRA_e",9606,Homo sapiens
+485,146367,KEEPPQPQLANGAL,KEEPPQPQLANGAL,,,119596531,"chromosome 20 open reading frame 24, isoform CRA_e",9606,Homo sapiens
+486,146368,KEEPSNNVKL,KEEPSNNVKL,,,119615215,"karyopherin (importin) beta 1, isoform CRA_b",9606,Homo sapiens
+487,146369,KEFDGKSLVSV,KEFDGKSLVSV,,,190359598,Putative heat shock protein HSP 90-beta 2,9606,Homo sapiens
+488,146370,KEGKPPISV,KEGKPPISV,,,194473724,AP-1 complex subunit mu-1 isoform 1,9606,Homo sapiens
+489,146371,KEIDKNDHL,KEIDKNDHL,,,119613602,"melanoma antigen family D, 2, isoform CRA_e",9606,Homo sapiens
+490,146372,KEIESTKGEL,KEIESTKGEL,,,157388975,protein Spindly,9606,Homo sapiens
+491,146373,KEKETPTPGEDIQV,KEKETPTPGEDIQV,,,119628946,"neurobeachin, isoform CRA_a",9606,Homo sapiens
+492,146375,KEKPDIFQL,KEKPDIFQL,,,119631309,"WD repeat domain 75, isoform CRA_b",9606,Homo sapiens
+493,146376,KEKSQLVRPL,KEKSQLVRPL,,,119609691,"hCG1987119, isoform CRA_a",9606,Homo sapiens
+494,146377,KELELMPEKGL,KELELMPEKGL,,,119595922,"CCCTC-binding factor (zinc finger protein)-like, isoform CRA_a",9606,Homo sapiens
+495,146378,KELGITAL,KELGITAL,,,5032051,40S ribosomal protein S14,9606,Homo sapiens
+496,146379,KELSEDEIRTL,KELSEDEIRTL,,,2822277,P52rIPK,9606,Homo sapiens
+497,146380,KELSENEVV,KELSENEVV,,,205361109,multiple C2 and transmembrane domain-containing protein 1 isoform L,9606,Homo sapiens
+498,146381,KEMAMLQKKI,KEMAMLQKKI,,,24233580,synaptonemal complex protein 3,9606,Homo sapiens
+499,146382,KENDFDRLVL,KENDFDRLVL,,,119605156,"coatomer protein complex, subunit epsilon, isoform CRA_c",9606,Homo sapiens
+500,146383,KERSGVSL,KERSGVSL,,,66365795,"histone cluster 1, H1e",9606,Homo sapiens
+501,146384,KESCESLSCL,KESCESLSCL,,,148745647,MYST3 protein,9606,Homo sapiens
+502,146385,KETEIVQLQ,KETEIVQLQ,,,315434259,kinesin-like protein KIF16B isoform 3,9606,Homo sapiens
+503,146386,KEVNFTSEL,KEVNFTSEL,,,8926138,targeting protein for Xklp2,9606,Homo sapiens
+504,146387,KEYVGIVRL,KEYVGIVRL,,,14602859,"dyskeratosis congenita 1, dyskerin",9606,Homo sapiens
+505,146393,KLKMKSPP,KLKMKSPP,,,213492753,NADH dehydrogenase subunit 5,9606,Homo sapiens
+506,146402,KSIPASFGT,KSIPASFGT,,,206729923,ATP-binding cassette sub-family A member 2,9606,Homo sapiens
+507,146412,LEALLFRV,LEALLFRV,,,119617667,"proline/serine-rich coiled-coil 2, isoform CRA_b",9606,Homo sapiens
+508,146413,LEEGKGGP,LEEGKGGP,,,119610023,neuronal pentraxin I,9606,Homo sapiens
+509,146414,LEGRTHTISLP,LEGRTHTISLP,,,126361953,KIAA0564 protein,9606,Homo sapiens
+510,146415,LEINPDHPIVETL,LEINPDHPIVETL,,,39644662,HSP90AB1 protein,9606,Homo sapiens
+511,146416,LEKSLRKSL,LEKSLRKSL,,,119594230,"glycine-N-acyltransferase, isoform CRA_c",9606,Homo sapiens
+512,146418,LEMMIKEL,LEMMIKEL,,,223029420,ski-like protein isoform 2,9606,Homo sapiens
+513,146423,LKKCCKIL,LKKCCKIL,,,48255949,plasma membrane calcium-transporting ATPase 2 isoform 2,9606,Homo sapiens
+514,146424,LLPGGGLLPTP,LLPGGGLLPTP,,,56205241,"splicing factor, arginine/serine-rich 11",9606,Homo sapiens
+515,146425,LLWSVTVSIF,LLWSVTVSIF,,,16304148,solute carrier family 2 member 9,9606,Homo sapiens
+516,146427,LPHPGPFGS,LPHPGPFGS,,,317373568,Fibrosin-1-like protein,9606,Homo sapiens
+517,146431,LSEGALAIEV,LSEGALAIEV,,,119583893,"kinesin family member 13B, isoform CRA_d",9606,Homo sapiens
+518,146433,LSLLLFSAP,LSLLLFSAP,,,21928622,seven transmembrane helix receptor,9606,Homo sapiens
+519,146434,LSLSSPQVPGSP,LSLSSPQVPGSP,,,5689489,KIAA1076 protein,9606,Homo sapiens
+520,146449,LVALSYSSP,LVALSYSSP,,,56204076,nucleoporin 133kDa,9606,Homo sapiens
+521,146453,MEDDGQPRTL,MEDDGQPRTL,,,77695912,nucleolysin TIAR isoform 2,9606,Homo sapiens
+522,146454,MEEDPQTSREIFN,MEEDPQTSREIFN,,,126032350,DNA-dependent protein kinase catalytic subunit isoform 2,9606,Homo sapiens
+523,146455,MEKGGNMKE,MEKGGNMKE,,,119577741,"creatine kinase, muscle",9606,Homo sapiens
+524,146458,MKLPVPAAAP,MKLPVPAAAP,,,119605991,"transducin (beta)-like 3, isoform CRA_a",9606,Homo sapiens
+525,146459,MLLAFYEKI,MLLAFYEKI,,,62898069,fucose-1-phosphate guanyltransferase variant,9606,Homo sapiens
+526,146460,MLLKGHKKL,MLLKGHKKL,,,158186612,RING finger and transmembrane domain-containing protein 2 isoform 2,9606,Homo sapiens
+527,146465,MVEISRTQPL,MVEISRTQPL,,,32949297,tetratricopeptide repeat domain 38,9606,Homo sapiens
+528,146468,NEDWENPQL,NEDWENPQL,,,62896781,cyclin B2 variant,9606,Homo sapiens
+529,146469,NEPKFLDG,NEPKFLDG,,,119631139,"cadherin 12, type 2 (N-cadherin 2), isoform CRA_a",9606,Homo sapiens
+530,146470,NEQGDRVYTL,NEQGDRVYTL,,,8096260,Nop10p,9606,Homo sapiens
+531,146472,NGDVGAVSEPP,NGDVGAVSEPP,,,119571934,"acyl-Coenzyme A binding domain containing 4, isoform CRA_b",9606,Homo sapiens
+532,146482,NSRVQDASKL,NSRVQDASKL,,,119610855,"ankyrin repeat and FYVE domain containing 1, isoform CRA_b",9606,Homo sapiens
+533,146485,NVVDSSQKP,NVVDSSQKP,,,22652556,myeloid/lymphoid or mixed-lineage leukemia/clathrin assembly protein fusion protein,9606,Homo sapiens
+534,146487,PAVPPPPVP,PAVPPPPVP,,,62088470,ras inhibitor RIN1 variant,9606,Homo sapiens
+535,146490,PEPLPSWVARLDL,PEPLPSWVARLDL,,,41020772,leucine-rich and immunoglobulin-like domains 3,9606,Homo sapiens
+536,146491,PEPVILVACVP,PEPVILVACVP,,,37181300,phosphodiesterase Hl,9606,Homo sapiens
+537,146493,PGYDSIIYR,PGYDSIIYR,,,15418960,ER-localized type I transmembrane adaptor precursor,9606,Homo sapiens
+538,146495,PHVPPPVPP,PHVPPPVPP,,,224586855,sorbin and SH3 domain-containing protein 2 isoform 8,9606,Homo sapiens
+539,146502,PVPAWARAL,PVPAWARAL,,,11138123,neuronal acetylcholine receptor subunit alpha-10 precursor,9606,Homo sapiens
+540,146505,QDIANEDAV,QDIANEDAV,,,SRC253370,hypothetical protein,9606,Homo sapiens
+541,146506,QDINQDNLQL,QDINQDNLQL,,,219519040,NDRG3 protein,9606,Homo sapiens
+542,146507,QEDAEMDAEL,QEDAEMDAEL,,,119580753,"calcium channel, voltage-dependent, alpha 1I subunit, isoform CRA_e",9606,Homo sapiens
+543,146508,QEEHVAVAQ,QEEHVAVAQ,,,119602578,"plectin 1, intermediate filament binding protein 500kDa, isoform CRA_c",9606,Homo sapiens
+544,146510,QGPYGMDV,QGPYGMDV,,,7161062,immunoglobulin heavy chain,9606,Homo sapiens
+545,146512,QLQSLTLFLQ,QLQSLTLFLQ,,,28316815,mitotic spindle-associated protein p126,9606,Homo sapiens
+546,146517,REDKKQVQF,REDKKQVQF,,,20127448,DNA polymerase alpha subunit B,9606,Homo sapiens
+547,146518,REELSNVLAAM,REELSNVLAAM,,,4689134,60S ribosomal protein L36,9606,Homo sapiens
+548,146519,REEPDLVLL,REEPDLVLL,,,317373574,Menin,9606,Homo sapiens
+549,146520,REEYPDRIM,REEYPDRIM,,,146424310,TUBB2A protein,9606,Homo sapiens
+550,146521,REGEDKEL,REGEDKEL,,,110349721,titin isoform novex-3,9606,Homo sapiens
+551,146522,RELEETNQKL,RELEETNQKL,,,119570995,"cerebellar degeneration-related protein 2, 62kDa, isoform CRA_b",9606,Homo sapiens
+552,146523,RERRDNYVP,RERRDNYVP,,,119582857,"ribosomal protein S17, isoform CRA_a",9606,Homo sapiens
+553,146539,SEAPPTNQA,SEAPPTNQA,,,119583300,"melanoma antigen family D, 1, isoform CRA_a",9606,Homo sapiens
+554,146540,SEEARKLMVRL,SEEARKLMVRL,,,119621306,"neuroblastoma-amplified protein, isoform CRA_b",9606,Homo sapiens
+555,146541,SEEDFIRSL,SEEDFIRSL,,,300669693,1-phosphatidylinositol-3-phosphate 5-kinase,9606,Homo sapiens
+556,146542,SEFPIRTL,SEFPIRTL,,,119588382,cytoskeleton associated protein 5,9606,Homo sapiens
+557,146543,SEMEVQDAEL,SEMEVQDAEL,,,116283988,PA2G4 protein,9606,Homo sapiens
+558,146544,SEMEVQDAELKAL,SEMEVQDAELKAL,,,116283988,PA2G4 protein,9606,Homo sapiens
+559,146545,SEVNPNTRVM,SEVNPNTRVM,,,34100335,ORM1-like 3,9606,Homo sapiens
+560,146546,SEYPIVDGKL,SEYPIVDGKL,,,119577114,"3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial), isoform CRA_b",9606,Homo sapiens
+561,146550,SLIDRSSAPEL,SLIDRSSAPEL,,,74753268,CAP-Gly domain-containing linker protein 2,9606,Homo sapiens
+562,146555,SNSPSGNNI,SNSPSGNNI,,,SRC255465,BMI1 polycomb ring finger oncogene,9606,Homo sapiens
+563,146557,SPSGWSNVF,SPSGWSNVF,,,11095363,glycerol 3-phosphate permease,9606,Homo sapiens
+564,146564,STCGSHFML,STCGSHFML,,,119120794,olfactory receptor 56A3,9606,Homo sapiens
+565,146571,TEDIPVKTL,TEDIPVKTL,,,119583215,"isoleucine-tRNA synthetase, isoform CRA_c",9606,Homo sapiens
+566,146572,TEEAKRQP,TEEAKRQP,,,SRC255467,SH3 and multiple ankyrin repeat domains protein 1,9606,Homo sapiens
+567,146573,TEEKFIVKA,TEEKFIVKA,,,194386786,unnamed protein product,9606,Homo sapiens
+568,146574,TEIDEKEYISL,TEIDEKEYISL,,,119581295,"proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki), isoform CRA_a",9606,Homo sapiens
+569,146580,TSFRLALI,TSFRLALI,,,18088311,"nitrilase family, member 2",9606,Homo sapiens
+570,146591,TWQRDGEDQTQDTEL,TWQRDGEDQTQDTEL,,,325651501,MHC class I antigen,9606,Homo sapiens
+571,146594,VCGKPFHSLSP,VCGKPFHSLSP,,,4507987,zinc finger protein 136,9606,Homo sapiens
+572,146596,VEDDRTLQSL,VEDDRTLQSL,,,119604262,"nucleoporin 205kDa, isoform CRA_b",9606,Homo sapiens
+573,146597,VEDLARISL,VEDLARISL,,,12654791,DEAD (Asp-Glu-Ala-Asp) box polypeptide 18,9606,Homo sapiens
+574,146598,VEGGAQVQQV,VEGGAQVQQV,,,119622823,"adaptor-related protein complex 2, alpha 2 subunit, isoform CRA_c",9606,Homo sapiens
+575,146599,VEGKDLPEH,VEGKDLPEH,,,119597533,"heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A), isoform CRA_b",9606,Homo sapiens
+576,146600,VEIEERGVKL,VEIEERGVKL,,,119591664,"septin 2, isoform CRA_a",9606,Homo sapiens
+577,146601,VEKIDFDSV,VEKIDFDSV,,,119577207,"eukaryotic translation initiation factor 3, subunit 12, isoform CRA_a",9606,Homo sapiens
+578,146602,VETTFSTEP,VETTFSTEP,,,62088562,chondroitin sulfate proteoglycan 2 (versican) variant,9606,Homo sapiens
+579,146603,VEYRGQAQAIEFL,VEYRGQAQAIEFL,,,32965414,cytoplasmic linker 2,9606,Homo sapiens
+580,146606,VKSGNPLQP,VKSGNPLQP,,,55664103,chromosome 10 open reading frame 18,9606,Homo sapiens
+581,146621,WALLTLVL,WALLTLVL,,,SRC255463,DENND3 protein,9606,Homo sapiens
+582,146630,YEDEDSLKTL,YEDEDSLKTL,,,119581065,"topoisomerase (DNA) II alpha 170kDa, isoform CRA_a",9606,Homo sapiens
+583,146631,YEDFKEEGSENAV,YEDFKEEGSENAV,,,119631555,"GTP-binding protein PTD004, isoform CRA_b",9606,Homo sapiens
+584,146632,YEDYYYHPPP,YEDYYYHPPP,,,156151396,heterogeneous nuclear ribonucleoprotein R isoform 3,9606,Homo sapiens
+585,146633,YEEGPGKNLP,YEEGPGKNLP,,,4502993,"cytochrome c oxidase subunit 7C, mitochondrial precursor",9606,Homo sapiens
+586,146634,YEEIFVKNM,YEEIFVKNM,,,5454114,tissue factor pathway inhibitor isoform a precursor,9606,Homo sapiens
+587,146635,YEENEEFLRTM,YEENEEFLRTM,,,7705477,tRNA methyltransferase 112 homolog,9606,Homo sapiens
+588,146636,YETDVFVV,YETDVFVV,,,254692934,general transcription factor II-I isoform 5,9606,Homo sapiens
+589,146638,YFPNMSVGFTAV,YFPNMSVGFTAV,,,60552602,TatD DNase domain containing 2,9606,Homo sapiens
+590,146639,YGAEALERM,YGAEALERM,,,319739573,hemoglobin alpha-1 globin chain,9606,Homo sapiens
+591,146646,YSDMKRAL,YSDMKRAL,,,119628062,"splicing factor, arginine/serine-rich 4, isoform CRA_a",9606,Homo sapiens
+592,146654,YSSTWSGGYGL,YSSTWSGGYGL,,,62871070,immunoglobulin alpha heavy chain variable region,9606,Homo sapiens
+593,146659,YVASVLGL,YVASVLGL,,,256600210,RANBP2-like and GRIP domain-containing protein 8,9606,Homo sapiens
+594,6568,CLGGLLTMV,CLGGLLTMV,,,522187,membrane protein,10376,Human herpesvirus 4
+595,17600,FRKAQIQGL,FRKAQIQGL,,,119114,Epstein-Barr nuclear antigen 6,10376,Human herpesvirus 4
+596,27375,ILTDFSVIK,ILTDFSVIK,,,64173269,EBNA3B (EBNA4A) latent protein,10376,Human herpesvirus 4
+597,29466,IVTDFSVIK,IVTDFSVIK,,,23893616,EBNA-3B nuclear protein,10376,Human herpesvirus 4
+598,29468,IVTDFSVIR,IVTDFSVIR,,,PT10002617,EBNA-3B,10376,Human herpesvirus 4
+599,37960,LLWTLVVLL,LLWTLVVLL,,,522187,membrane protein,10376,Human herpesvirus 4
+600,55734,RRRWRRLTV,RRRWRRLTV,,,126379,Latent membrane protein 2,10376,Human herpesvirus 4
+601,146125,AEAERVGL,AEAERVGL,,,119581065,"topoisomerase (DNA) II alpha 170kDa, isoform CRA_a",9606,Homo sapiens
+602,146128,AEALERMFL,AEALERMFL,,,319739573,hemoglobin alpha-1 globin chain,9606,Homo sapiens
+603,146129,AEAPVQEEKL,AEAPVQEEKL,,,3721898,hJTB,9606,Homo sapiens
+604,146130,AEASMISKL,AEASMISKL,,,119600478,"cullin 1, isoform CRA_a",9606,Homo sapiens
+605,146137,AEINNIIKI,AEINNIIKI,,,119584763,"topoisomerase (DNA) II beta 180kDa, isoform CRA_c",9606,Homo sapiens
+606,996,AEIPRTFKY,AEIPRTFKY,,,SRC250677,RAS p21 protein activator 2,9606,Homo sapiens
+607,997,AEIPTRVNY,AEIPTRVNY,,,SRC250676,synaptotagmin IX ,9606,Homo sapiens
+608,146140,AEKLGGSAVI,AEKLGGSAVI,,,119594854,"cofilin 1 (non-muscle), isoform CRA_a",9606,Homo sapiens
+609,146141,AEKVEIATL,AEKVEIATL,,,119619571,"proteasome (prosome, macropain) subunit, alpha type, 4, isoform CRA_b",9606,Homo sapiens
+610,134315,AEMGKGSFKY,AEMGKGSFKY,,,55584035,Elongation factor 1-alpha 1,9606,Homo sapiens
+611,146143,AEMIEKYFVSP,AEMIEKYFVSP,,,119631737,"sodium channel, voltage-gated, type III, alpha, isoform CRA_b",9606,Homo sapiens
+612,146145,AENEAETKL,AENEAETKL,,,119613715,"glutamyl-prolyl-tRNA synthetase, isoform CRA_a",9606,Homo sapiens
+613,146150,AEQAERYDDMASAM,AEQAERYDDMASAM,,,123238849,"tyrosine 3-monooxygenase/tryptophan 5-monooxygenase activation protein, eta polypeptide",9606,Homo sapiens
+614,146156,AEVKKPGASMKV,AEVKKPGASMKV,,,323431581,immunoglobulin variable region,9606,Homo sapiens
+615,146157,AEVKRPGESLRI,AEVKRPGESLRI,,,4097066,IgE heavy chain,9606,Homo sapiens
+616,146158,AEVTVSASGLL,AEVTVSASGLL,,,37182034,SQFE253,9606,Homo sapiens
+617,146159,AEVVVKEGL,AEVVVKEGL,,,49065496,TSPYL,9606,Homo sapiens
+618,146160,AEVWSTTDAVTQV,AEVWSTTDAVTQV,,,SRC253370,hypothetical protein,9606,Homo sapiens
+619,146161,AEYGRLGLGEGAEEK,AEYGRLGLGEGAEEK,,,119628099,"regulator of chromosome condensation 1, isoform CRA_d",9606,Homo sapiens
+620,146162,AEYIQKNVQL,AEYIQKNVQL,,,119627813,"proteasome (prosome, macropain) subunit, beta type, 2, isoform CRA_b",9606,Homo sapiens
+621,127922,AIIGGTFTV,AIIGGTFTV,,,51701446,Endoplasmic reticulum-Golgi intermediate compartment protein 1,9606,Homo sapiens
+622,127928,ALDKATVLL,ALDKATVLL,,,74725796,Programmed cell death protein 4,9606,Homo sapiens
+623,2528,ALFGALFLA,ALFGALFLA,,,1709662,Phospholipid transfer protein precursor,9606,Homo sapiens
+624,2685,ALLAGSEYL,ALLAGSEYL,,,6685526,Eukaryotic translation initiation factor 3 subunit D,9606,Homo sapiens
+625,127931,ALNEKLVNL,ALNEKLVNL,,,6685511,Eukaryotic translation initiation factor 3 subunit F,9606,Homo sapiens
+626,2874,ALSDHHIYL,ALSDHHIYL,,,113606,Fructose-bisphosphate aldolase A,9606,Homo sapiens
+627,2995,ALWDIETGQQTV,ALWDIETGQQTV,,,51317304,Guanine nucleotide-binding protein G,9606,Homo sapiens
+628,103041,ALWGPDPAAA,ALWGPDPAAA,,,124617,Insulin precursor,9606,Homo sapiens
+629,3549,APFEPLASGIL,APFEPLASGIL,,,135850,Metalloproteinase inhibitor 1 precursor,9606,Homo sapiens
+630,3813,APSGSLAVPLAVL,APSGSLAVPLAVL,,,47117631,Thioredoxin domain-containing protein 1 precursor,9606,Homo sapiens
+631,4785,ASSSYNMVI,ASSSYNMVI,,,386744,guanine nucleotide-binding protein G-s-alpha-2,9606,Homo sapiens
+632,119768,ATANQIILK,ATANQIILK,,,20069355,muscleblind-like protein MLP1,9606,Homo sapiens
+633,4982,ATGPSIKI,ATGPSIKI,,,307218,MHC B complex protein 12.3,9606,Homo sapiens
+634,119771,ATVAGVHVK,ATVAGVHVK,,,258679435,cytochrome c oxidase assembly factor-like,9606,Homo sapiens
+635,119773,ATVTPSPVK,ATVTPSPVK,,,119611985,"nuclear casein kinase and cyclin-dependent kinase substrate 1, isoform CRA_b",9606,Homo sapiens
+636,119777,AVILPPLSPYFK,AVILPPLSPYFK,,,6093489,NADH dehydrogenase,9606,Homo sapiens
+637,119778,AVQRTLLEK,AVQRTLLEK,,,119049,CD99 antigen,9606,Homo sapiens
+638,119779,AVTDVIIAK,AVTDVIIAK,,,183439,guanine nucleotide-binding regulatory protein 2,9606,Homo sapiens
+639,146180,CESCVDLLFV,CESCVDLLFV,,,1470082,cyclin G1 interacting protein,9606,Homo sapiens
+640,77775,CLGGLLTMVAG,CLGGLLTMVAG,,,81938918,Latent membrane protein 2,10376,Human herpesvirus 4
+641,7683,DAYALNHTL,DAYALNHTL,,,2833276,POU domain class 2-associating factor 1,9606,Homo sapiens
+642,146187,DEVGGEALGRLL,DEVGGEALGRLL,,,321271362,hemoglobin beta chain,9606,Homo sapiens
+643,8193,DEVGIVTKMY,DEVGIVTKMY,,,SRC250679,dynein,9606,Homo sapiens
+644,8194,DEVGIVTKY,DEVGIVTKY,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+645,146197,DNVPMFISQN,DNVPMFISQN,,,165932370,protocadherin Fat 4 precursor,9606,Homo sapiens
+646,9994,DRKLRINSL,DRKLRINSL,,,SRC250689,topoisomerase (DNA) III alpha,9606,Homo sapiens
+647,10073,DRYRRIHSL,DRYRRIHSL,,,7717235,T-cell receptor alpha chain-c6.1A fusion protein,9606,Homo sapiens
+648,146204,DTVKVKESF,DTVKVKESF,,,SRC255466,dedicator of cytokinesis 6,9606,Homo sapiens
+649,146205,EAEAVMLGQP,EAEAVMLGQP,,,119578955,"aconitase 1, soluble, isoform CRA_b",9606,Homo sapiens
+650,146210,EEPFMPEE,EEPFMPEE,,,110349742,hypothetical protein LOC84281,9606,Homo sapiens
+651,146211,EEQQKQQLQ,EEQQKQQLQ,,,33242861,PAS domain containing protein 1,9606,Homo sapiens
+652,134358,EEYNGGLVTV,EEYNGGLVTV,,,123797,Ig heavy chain V-I region EU,9606,Homo sapiens
+653,146217,EKLERKEIQ,EKLERKEIQ,,,119576203,"protein kinase C, beta 1, isoform CRA_c",9606,Homo sapiens
+654,146218,EKLFEEKEKP,EKLFEEKEKP,,,38383015,TAF3 protein,9606,Homo sapiens
+655,13124,ELKKKTNL,ELKKKTNL,,,SRC250681,"hCG1746041, isoform CRA_b",9606,Homo sapiens
+656,13682,EPKYKTQL,EPKYKTQL,,,SRC250687,zinc finger protein,9606,Homo sapiens
+657,14083,ERTLHLVEL,ERTLHLVEL,,,SRC250690,kelch domain,9606,Homo sapiens
+658,14104,ERYPRYNQL,ERYPRYNQL,,,SRC250688,alpha 1 type VIII collagen,9606,Homo sapiens
+659,78966,ETVAVGVIKAV,ETVAVGVIKAV,,,PT10006130,elongation factor 1-alpha 1,9606,Homo sapiens
+660,146226,ETVNRIMTL,ETVNRIMTL,,,52693923,olfactory receptor 6M1,9606,Homo sapiens
+661,14628,EVAPPEYHRK,EVAPPEYHRK,,,4808625,MRG15 protein,9606,Homo sapiens
+662,78969,FAYDGKDYI,FAYDGKDYI,,,231398,"HLA class I histocompatibility antigen, B-39 alpha chain precursor",9606,Homo sapiens
+663,78970,FAYDGKDYL,FAYDGKDYL,,,34395942,"HLA class I histocompatibility antigen, alpha chain E precursor",9606,Homo sapiens
+664,146233,FEDELHPDL,FEDELHPDL,,,119624323,"peptidylprolyl isomerase (cyclophilin)-like 1, isoform CRA_b",9606,Homo sapiens
+665,146237,FEKTQEEL,FEKTQEEL,,,SRC255464,Apolipoprotein A-II,9606,Homo sapiens
+666,146238,FEKTQEELTPFF,FEKTQEELTPFF,,,SRC255464,Apolipoprotein A-II,9606,Homo sapiens
+667,146239,FEPLNKPDSTIQ,FEPLNKPDSTIQ,,,119617510,"ubiquitin specific peptidase 15, isoform CRA_a",9606,Homo sapiens
+668,134379,FEQIIERF,FEQIIERF,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+669,146242,FGSGAGASCVNLL,FGSGAGASCVNLL,,,119610602,"neuroligin 2, isoform CRA_b",9606,Homo sapiens
+670,140849,FIDSYICQV + CYSTL(C7),FIDSYICQV,Cysteinylation,C7,1661016,SMCY,9606,Homo sapiens
+671,127976,FLAEEGFYKF,FLAEEGFYKF,,,182676409,Dolichyl-diphosphooligosaccharide--protein glycosyltransferase subunit STT3A,9606,Homo sapiens
+672,127977,FLDLEPIPGA,FLDLEPIPGA,,,38258193,"5'(3')-deoxyribonucleotidase, cytosolic type",9606,Homo sapiens
+673,16586,FLFDGSPTYV,FLFDGSPTYV,,,269849686,Fatty acid synthase,9606,Homo sapiens
+674,16587,FLFDGSPTYVL,FLFDGSPTYVL,,,67476453,Fatty acid synthase,9606,Homo sapiens
+675,127979,FLPSYIIDV,FLPSYIIDV,,,23503048,Cleavage and polyadenylation specificity factor subunit 1,9606,Homo sapiens
+676,78974,FQLEINVRL,FQLEINVRL,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+677,140850,FTESCEXCY + CYSTL(C8),FTESCEXCY,Cysteinylation,C8,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+678,17944,FTEVSIRKY,FTEVSIRKY,,,SRC250684,ankyrin repeat domain 30B,9606,Homo sapiens
+679,119884,FTRSLFVN,FTRSLFVN,,,94730425,"Spectrin alpha chain, brain",9606,Homo sapiens
+680,78975,FVLPELPSV,FVLPELPSV,,,1723119,Uncharacterized protein KIAA0174,9606,Homo sapiens
+681,119885,FVNDIFERI,FVNDIFERI,,,238624110,"histone cluster 2, H2bf isoform b",9606,Homo sapiens
+682,119887,FVQMMTAK,FVQMMTAK,,,49037474,Calmodulin,9606,Homo sapiens
+683,140851,FXDTDTXCY + CYSTL(C8),FXDTDTXCY,Cysteinylation,C8,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+684,146259,GAEPKPKPQL,GAEPKPKPQL,,,119621218,"HS1-binding protein 3, isoform CRA_b",9606,Homo sapiens
+685,146261,GANALLFVGV,GANALLFVGV,,,119581446,"adenylate cyclase 1 (brain), isoform CRA_a",9606,Homo sapiens
+686,146266,GEDVVTLL,GEDVVTLL,,,119620009,"hexokinase 2, isoform CRA_b",9606,Homo sapiens
+687,146268,GEEGYGRSL,GEEGYGRSL,,,119618667,"anaphase promoting complex subunit 5, isoform CRA_c",9606,Homo sapiens
+688,146270,GEELQMEPV,GEELQMEPV,,,119577490,"Rab acceptor 1 (prenylated), isoform CRA_a",9606,Homo sapiens
+689,146271,GEGKPTPAL,GEGKPTPAL,,,154354966,mitochondrial inner membrane protein isoform 3,9606,Homo sapiens
+690,146273,GEIIGVKVL,GEIIGVKVL,,,119574769,"pyrophosphatase (inorganic) 1, isoform CRA_b",9606,Homo sapiens
+691,146274,GEKFEDENFIL,GEKFEDENFIL,,,119581483,"peptidylprolyl isomerase A-like, isoform CRA_b",9606,Homo sapiens
+692,146276,GEVDPKVAL,GEVDPKVAL,,,180233,cell adhesion protein (SQM1),9606,Homo sapiens
+693,146278,GEYLPSKGAGNNVL,GEYLPSKGAGNNVL,,,119628648,"zinc finger protein 198, isoform CRA_a",9606,Homo sapiens
+694,127992,GIVEGLMTTV,GIVEGLMTTV,,,120649,Glyceraldehyde-3-phosphate dehydrogenase,9606,Homo sapiens
+695,100882,GIVEQCCTSI,GIVEQCCTSI,,,124617,Insulin precursor,9606,Homo sapiens
+696,127997,GLFGGAGVGKTVL,GLFGGAGVGKTVL,,,114549,"ATP synthase subunit beta, mitochondrial",9606,Homo sapiens
+697,20914,GLIEKNIEL,GLIEKNIEL,,,12231019,DNA,9606,Homo sapiens
+698,21772,GPRTAALGLL,GPRTAALGLL,,,2493460,Reticulocalbin-2 precursor,9606,Homo sapiens
+699,122782,GRFDVKIEV,GRFDVKIEV,,,114392,Sodium/potassium-transporting ATPase subunit beta-1,9606,Homo sapiens
+700,138420,GRHGVFLEL,GRHGVFLEL,,,119598676,"proteasome (prosome, macropain) 26S subunit, non-ATPase, 2, isoform CRA_a",9606,Homo sapiens
+701,146290,GRPPEMPV,GRPPEMPV,,,119630064,"bromodomain and WD repeat domain containing 1, isoform CRA_c",9606,Homo sapiens
+702,22259,GRYFRIQEV,GRYFRIQEV,,,SRC250691,mitochondrial ribosomal protein L20,9606,Homo sapiens
+703,146294,GTGASGSFKL,GTGASGSFKL,,,120659986,"histone cluster 1, H1t",9606,Homo sapiens
+704,146304,HEDIKKGILL,HEDIKKGILL,,,21410275,minichromosome maintenance complex component 4,9606,Homo sapiens
+705,146308,HERFPFEIVKMEF,HERFPFEIVKMEF,,,119611325,"dynamin 3, isoform CRA_e",9606,Homo sapiens
+706,146310,HLSVSTPV,HLSVSTPV,,,119572141,"spen homolog, transcriptional regulator (Drosophila)",9606,Homo sapiens
+707,100920,HLVEALYLV,HLVEALYLV,,,124617,Insulin precursor,9606,Homo sapiens
+708,24465,HPKYKTEL,HPKYKTEL,,,136471,Tristetraproline,9606,Homo sapiens
+709,146312,HREVCHPEV,HREVCHPEV,,,SRC253370,hypothetical protein,9606,Homo sapiens
+710,121386,HRFIYLINH,HRFIYLINH,,,1912289,non-structural protein 2,11260,Human respiratory syncytial virus A strain Long
+711,25454,IATVDSYVI,IATVDSYVI,,,3915888,Tenascin precursor,9606,Homo sapiens
+712,146322,IEERGVKL,IEERGVKL,,,119591664,"septin 2, isoform CRA_a",9606,Homo sapiens
+713,119940,IFEKSFVN,IFEKSFVN,,,543720,Serine/threonine-protein phosphatase 2A regulatory subunit B'' subunit alpha,9606,Homo sapiens
+714,128021,IIMLEALERV,IIMLEALERV,,,59800216,Small nuclear ribonucleoprotein G,9606,Homo sapiens
+715,146327,IKLYKKKTGKDV,IKLYKKKTGKDV,,,119608027,"heat shock 70kDa protein 5 (glucose-regulated protein, 78kDa), isoform CRA_b",9606,Homo sapiens
+716,128026,ILGYTEHQV,ILGYTEHQV,,,120649,Glyceraldehyde-3-phosphate dehydrogenase,9606,Homo sapiens
+717,27142,ILKQKIALD,ILKQKIALD,,,SRC248682,Interleukin-6,9606,Homo sapiens
+718,27513,IMLEALERV,IMLEALERV,,,59800216,Small nuclear ribonucleoprotein G,9606,Homo sapiens
+719,146334,INEDRLPHLL,INEDRLPHLL,,,194306567,replication factor C subunit 5 isoform 2,9606,Homo sapiens
+720,27801,IPCLLISFL,IPCLLISFL,,,2506125,Neuronal acetylcholine receptor subunit alpha-3 precursor,9606,Homo sapiens
+721,119949,IPMGKSMLV,IPMGKSMLV,,,124255,Insulin-like growth factor II,9606,Homo sapiens
+722,119957,ISKLSAKFGGQA,ISKLSAKFGGQA,,,6686278,Hsc70-interacting protein,9606,Homo sapiens
+723,119964,ITANATEPQKAEN,ITANATEPQKAEN,,,20138342,FXYD domain-containing ion transport regulator 6,9606,Homo sapiens
+724,28869,ITEDMGHLKY,ITEDMGHLKY,,,SRC250686,proliferating cell nuclear antigen,9606,Homo sapiens
+725,146360,KAYGDRIERM,KAYGDRIERM,,,15010550,heat shock protein gp96 precursor,9606,Homo sapiens
+726,146363,KEDDVRQYVV,KEDDVRQYVV,,,119579040,"ribosomal protein S6, isoform CRA_b",9606,Homo sapiens
+727,146366,KEEPPQPQL,KEEPPQPQL,,,119596531,"chromosome 20 open reading frame 24, isoform CRA_e",9606,Homo sapiens
+728,146367,KEEPPQPQLANGAL,KEEPPQPQLANGAL,,,119596531,"chromosome 20 open reading frame 24, isoform CRA_e",9606,Homo sapiens
+729,146368,KEEPSNNVKL,KEEPSNNVKL,,,119615215,"karyopherin (importin) beta 1, isoform CRA_b",9606,Homo sapiens
+730,146370,KEGKPPISV,KEGKPPISV,,,194473724,AP-1 complex subunit mu-1 isoform 1,9606,Homo sapiens
+731,146371,KEIDKNDHL,KEIDKNDHL,,,119613602,"melanoma antigen family D, 2, isoform CRA_e",9606,Homo sapiens
+732,146373,KEKETPTPGEDIQV,KEKETPTPGEDIQV,,,119628946,"neurobeachin, isoform CRA_a",9606,Homo sapiens
+733,146374,KEKNGDVVEL,KEKNGDVVEL,,,PT10007134,envelope glycoprotein Q,10372,Human herpesvirus 7
+734,146375,KEKPDIFQL,KEKPDIFQL,,,119631309,"WD repeat domain 75, isoform CRA_b",9606,Homo sapiens
+735,146376,KEKSQLVRPL,KEKSQLVRPL,,,119609691,"hCG1987119, isoform CRA_a",9606,Homo sapiens
+736,146377,KELELMPEKGL,KELELMPEKGL,,,119595922,"CCCTC-binding factor (zinc finger protein)-like, isoform CRA_a",9606,Homo sapiens
+737,146382,KENDFDRLVL,KENDFDRLVL,,,119605156,"coatomer protein complex, subunit epsilon, isoform CRA_c",9606,Homo sapiens
+738,138864,KIITYRNL,KIITYRNL,,,158259947,unnamed protein product,9606,Homo sapiens
+739,32645,KPAFFAEKL,KPAFFAEKL,,,113944,Annexin A1,9606,Homo sapiens
+740,32882,KPSLPFTSL,KPSLPFTSL,,,400048,Cytokine receptor common gamma chain precursor,9606,Homo sapiens
+741,122818,KRFKGQIGL,KRFKGQIGL,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+742,122823,KRVELNGGL,KRVELNGGL,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+743,120007,KTYGEIFEK,KTYGEIFEK,,,6093464,NADH dehydrogenase [ubiquinone] 1 subunit C2,9606,Homo sapiens
+744,120015,LASGVHGLPLL,LASGVHGLPLL,,,119571162,"porcupine homolog (Drosophila), isoform CRA_a",9606,Homo sapiens
+745,146412,LEALLFRV,LEALLFRV,,,119617667,"proline/serine-rich coiled-coil 2, isoform CRA_b",9606,Homo sapiens
+746,146416,LEKSLRKSL,LEKSLRKSL,,,119594230,"glycine-N-acyltransferase, isoform CRA_c",9606,Homo sapiens
+747,146418,LEMMIKEL,LEMMIKEL,,,223029420,ski-like protein isoform 2,9606,Homo sapiens
+748,120025,LFALTLPIW,LFALTLPIW,,,108936015,C-X-C chemokine receptor type 1,9606,Homo sapiens
+749,120061,LGSVAGIFNYY,LGSVAGIFNYY,,,SRC247653,arachidonate 5-lipoxygenase-activating protein,9606,Homo sapiens
+750,37183,LLDVTAAV,LLDVTAAV,,,SRC250796,"interferon, gamma-inducible protein",9606,Homo sapiens
+751,120073,LLPPPPPVAR,LLPPPPPVAR,,,258589175,nuclear factor 1-X splice variant X3,9606,Homo sapiens
+752,38568,LPKVKLAL,LPKVKLAL,,,SRC250682,"transmembrane protein 16H, isoform CRA_b",9606,Homo sapiens
+753,146431,LSEGALAIEV,LSEGALAIEV,,,119583893,"kinesin family member 13B, isoform CRA_d",9606,Homo sapiens
+754,146433,LSLLLFSAP,LSLLLFSAP,,,21928622,seven transmembrane helix receptor,9606,Homo sapiens
+755,40467,LVMAPRTVL,LVMAPRTVL,,,122162,"HLA class I histocompatibility antigen, B-7 alpha chain precursor",9606,Homo sapiens
+756,146453,MEDDGQPRTL,MEDDGQPRTL,,,77695912,nucleolysin TIAR isoform 2,9606,Homo sapiens
+757,146455,MEKGGNMKE,MEKGGNMKE,,,119577741,"creatine kinase, muscle",9606,Homo sapiens
+758,146458,MKLPVPAAAP,MKLPVPAAAP,,,119605991,"transducin (beta)-like 3, isoform CRA_a",9606,Homo sapiens
+759,146460,MLLKGHKKL,MLLKGHKKL,,,158186612,RING finger and transmembrane domain-containing protein 2 isoform 2,9606,Homo sapiens
+760,140715,MTEXYDYPKY + INDIST(X4),MTEXYDYPKY,I/L uncertainty,X4,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+761,42921,MVDGTLLLL,MVDGTLLLL,,,34395942,"HLA class I histocompatibility antigen, alpha chain E precursor",9606,Homo sapiens
+762,120106,NEIEDTFRQF,NEIEDTFRQF,,,1395162,vacuolar ATPase,9606,Homo sapiens
+763,146469,NEPKFLDG,NEPKFLDG,,,119631139,"cadherin 12, type 2 (N-cadherin 2), isoform CRA_a",9606,Homo sapiens
+764,146472,NGDVGAVSEPP,NGDVGAVSEPP,,,119571934,"acyl-Coenzyme A binding domain containing 4, isoform CRA_b",9606,Homo sapiens
+765,44901,NLTISDVSV,NLTISDVSV,,,547937,Mucin-1 precursor,9606,Homo sapiens
+766,44948,NLYPFVKTV,NLYPFVKTV,,,23831360,Bifunctional purine biosynthesis protein PURH,9606,Homo sapiens
+767,146482,NSRVQDASKL,NSRVQDASKL,,,119610855,"ankyrin repeat and FYVE domain containing 1, isoform CRA_b",9606,Homo sapiens
+768,146490,PEPLPSWVARLDL,PEPLPSWVARLDL,,,41020772,leucine-rich and immunoglobulin-like domains 3,9606,Homo sapiens
+769,146491,PEPVILVACVP,PEPVILVACVP,,,37181300,phosphodiesterase Hl,9606,Homo sapiens
+770,146493,PGYDSIIYR,PGYDSIIYR,,,15418960,ER-localized type I transmembrane adaptor precursor,9606,Homo sapiens
+771,146495,PHVPPPVPP,PHVPPPVPP,,,224586855,sorbin and SH3 domain-containing protein 2 isoform 8,9606,Homo sapiens
+772,146502,PVPAWARAL,PVPAWARAL,,,11138123,neuronal acetylcholine receptor subunit alpha-10 precursor,9606,Homo sapiens
+773,146505,QDIANEDAV,QDIANEDAV,,,SRC253370,hypothetical protein,9606,Homo sapiens
+774,146507,QEDAEMDAEL,QEDAEMDAEL,,,119580753,"calcium channel, voltage-dependent, alpha 1I subunit, isoform CRA_e",9606,Homo sapiens
+775,146508,QEEHVAVAQ,QEEHVAVAQ,,,119602578,"plectin 1, intermediate filament binding protein 500kDa, isoform CRA_c",9606,Homo sapiens
+776,111667,QFPIFLQF,QFPIFLQF,,,SRC241946,major capsid protein L1,333761,Human papillomavirus type 18
+777,146510,QGPYGMDV,QGPYGMDV,,,7161062,immunoglobulin heavy chain,9606,Homo sapiens
+778,120151,QLYMIQKKS,QLYMIQKKS,,,118595707,Membrane-associated phosphatidylinositol transfer protein 1,9606,Homo sapiens
+779,120152,QLYWSHPRK,QLYWSHPRK,,,50403626,40S ribosomal protein S29,9606,Homo sapiens
+780,120160,QVADVVVSRW,QVADVVVSRW,,,269849686,Fatty acid synthase,9606,Homo sapiens
+781,111695,QYEIINYF,QYEIINYF,,,SRC245685,membrane protein UL1,10359,Human herpesvirus 5
+782,111696,QYEIMNYF,QYEIMNYF,,,SRC245695,polymerase accessory protein T 6/GS,10359,Human herpesvirus 5
+783,146517,REDKKQVQF,REDKKQVQF,,,20127448,DNA polymerase alpha subunit B,9606,Homo sapiens
+784,146518,REELSNVLAAM,REELSNVLAAM,,,4689134,60S ribosomal protein L36,9606,Homo sapiens
+785,146521,REGEDKEL,REGEDKEL,,,110349721,titin isoform novex-3,9606,Homo sapiens
+786,146522,RELEETNQKL,RELEETNQKL,,,119570995,"cerebellar degeneration-related protein 2, 62kDa, isoform CRA_b",9606,Homo sapiens
+787,55385,RPYSNVSNL,RPYSNVSNL,,,O95248,SET binding factor 1,9606,Homo sapiens
+788,55556,RRFFPYYVY,RRFFPYYVY,,,130853,Proteasome subunit beta type-1 precursor,9606,Homo sapiens
+789,55556,RRFFPYYVY,RRFFPYYVY,,,130853,Proteasome subunit beta type-1 precursor,9606,Homo sapiens
+790,120183,RRKSSGGKGGSY,RRKSSGGKGGSY,,,1160934,lymphocyte antigen,9606,Homo sapiens
+791,98989,RRLPIFSRL,RRLPIFSRL,,,146291085,Butyrate response factor 2,9606,Homo sapiens
+792,122890,RRVGXQVNL,RRVGXQVNL,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+793,139237,RVWDLPGVLK,RVWDLPGVLK,,,158966691,centromere protein M isoform c,9606,Homo sapiens
+794,146539,SEAPPTNQA,SEAPPTNQA,,,119583300,"melanoma antigen family D, 1, isoform CRA_a",9606,Homo sapiens
+795,146540,SEEARKLMVRL,SEEARKLMVRL,,,119621306,"neuroblastoma-amplified protein, isoform CRA_b",9606,Homo sapiens
+796,57469,SEIDLILGY,SEIDLILGY,,,SRC248915,cytochrome P450 2D6,9606,Homo sapiens
+797,57470,SEIDTVAKY,SEIDTVAKY,,,SRC250678,E3 ubiquitin-protein ligase,9606,Homo sapiens
+798,146546,SEYPIVDGKL,SEYPIVDGKL,,,119577114,"3-hydroxy-3-methylglutaryl-Coenzyme A synthase 2 (mitochondrial), isoform CRA_b",9606,Homo sapiens
+799,120198,SGCDLEEIPLD,SGCDLEEIPLD,,,74725927,BCL2-like 14 isoform 1 variant,9606,Homo sapiens
+800,58547,SIIGRLLEV,SIIGRLLEV,,,30582097,"protein phosphatase 1, catalytic subunit, alpha isoform",9606,Homo sapiens
+801,59170,SLIGHLQTL,SLIGHLQTL,,,2499746,Dual specificity protein phosphatase 5,9606,Homo sapiens
+802,59255,SLLGGDVVSV,SLLGGDVVSV,,,14195584,TSC22 domain family protein 3,9606,Homo sapiens
+803,59296,SLLPPTALVGL,SLLPPTALVGL,,,Q15436,Protein transport protein Sec23A,9606,Homo sapiens
+804,139608,SLPRGTSTPK,SLPRGTSTPK,,,SRC253639,Sp110 nuclear body protein,9606,Homo sapiens
+805,101241,SLQKRGIVEQ,SLQKRGIVEQ,,,124617,Insulin precursor,9606,Homo sapiens
+806,101242,SLQPLALEG,SLQPLALEG,,,124617,Insulin precursor,9606,Homo sapiens
+807,59453,SLSEKTVLL,SLSEKTVLL,,,116021,CD59 glycoprotein precursor,9606,Homo sapiens
+808,101248,SLYQLENYC,SLYQLENYC,,,124617,Insulin precursor,9606,Homo sapiens
+809,116519,SMTLAIHEI,SMTLAIHEI,,,74739483,Sphingolipid delta(4)-desaturase DES1,9606,Homo sapiens
+810,61588,STEPVNILY,STEPVNILY,,,SRC250683,schlafen family member 5 ,9606,Homo sapiens
+811,79091,STLHLVRL,STLHLVRL,,,SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+812,61926,STTAICATGL,STTAICATGL,,,10720340,Ubiquitin carboxyl-terminal hydrolase 3,9606,Homo sapiens
+813,120228,SVFQQGMKNK,SVFQQGMKNK,,,114374,Sodium/potassium-transporting ATPase subunit alpha-1 precursor,9606,Homo sapiens
+814,120230,SVPEFPLSPPK,SVPEFPLSPPK,,,134973,Stathmin,9606,Homo sapiens
+815,62305,SVRDRLARL,SVRDRLARL,,,82011648,EBNA3A nuclear protein,10376,Human herpesvirus 4
+816,146571,TEDIPVKTL,TEDIPVKTL,,,119583215,"isoleucine-tRNA synthetase, isoform CRA_c",9606,Homo sapiens
+817,146572,TEEAKRQP,TEEAKRQP,,,SRC255467,SH3 and multiple ankyrin repeat domains protein 1,9606,Homo sapiens
+818,146573,TEEKFIVKA,TEEKFIVKA,,,194386786,unnamed protein product,9606,Homo sapiens
+819,146574,TEIDEKEYISL,TEIDEKEYISL,,,119581295,"proteasome (prosome, macropain) activator subunit 3 (PA28 gamma; Ki), isoform CRA_a",9606,Homo sapiens
+820,128128,TLWDIQKDLK,TLWDIQKDLK,,,126041,L-lactate dehydrogenase B chain,9606,Homo sapiens
+821,128129,TLWGIQKEL,TLWGIQKEL,,,126047,L-lactate dehydrogenase A chain,9606,Homo sapiens
+822,115117,TRFSYAEYF,TRFSYAEYF,,,20531999,Ankyrin repeat and SOCS box protein 2,9606,Homo sapiens
+823,146580,TSFRLALI,TSFRLALI,,,18088311,"nitrilase family, member 2",9606,Homo sapiens
+824,120251,TTGILSILFY,TTGILSILFY,,,15825166,USH3A isoform b,9606,Homo sapiens
+825,120257,TVFSTHFM,TVFSTHFM,,,119609489,"ATP-binding cassette, sub-family A (ABC1), member 5, isoform CRA_c",9606,Homo sapiens
+826,146591,TWQRDGEDQTQDTEL,TWQRDGEDQTQDTEL,,,325651501,MHC class I antigen,9606,Homo sapiens
+827,146596,VEDDRTLQSL,VEDDRTLQSL,,,119604262,"nucleoporin 205kDa, isoform CRA_b",9606,Homo sapiens
+828,146598,VEGGAQVQQV,VEGGAQVQQV,,,119622823,"adaptor-related protein complex 2, alpha 2 subunit, isoform CRA_c",9606,Homo sapiens
+829,146599,VEGKDLPEH,VEGKDLPEH,,,119597533,"heterogeneous nuclear ribonucleoprotein U (scaffold attachment factor A), isoform CRA_b",9606,Homo sapiens
+830,146600,VEIEERGVKL,VEIEERGVKL,,,119591664,"septin 2, isoform CRA_a",9606,Homo sapiens
+831,146601,VEKIDFDSV,VEKIDFDSV,,,119577207,"eukaryotic translation initiation factor 3, subunit 12, isoform CRA_a",9606,Homo sapiens
+832,146606,VKSGNPLQP,VKSGNPLQP,,,55664103,chromosome 10 open reading frame 18,9606,Homo sapiens
+833,136896,VLHDDLLEA,VLHDDLLEA,,,40807045,histocompatibility (minor) HA-1,9606,Homo sapiens
+834,135864,VNDIFERI,VNDIFERI,,,11036646,"H2B histone family, member S",9606,Homo sapiens
+835,70299,VPGAGSVPAI,VPGAGSVPAI,,,115844,Nuclear transcription factor Y subunit alpha,9606,Homo sapiens
+836,70476,VPSEPGGVL,VPSEPGGVL,,,131469,Tyrosine-protein phosphatase non-receptor type 6,9606,Homo sapiens
+837,119887,FVQMMTAK,FVQMMTAK,,,49037474,Calmodulin,9606,Homo sapiens
+838,71222,VSYGSIVTY,VSYGSIVTY,,,181940,CR2/CD21/C3d/Epstein-Barr virus receptor precursor,9606,Homo sapiens
+839,120299,VTMTASRML,VTMTASRML,,,74761895,Peflin,9606,Homo sapiens
+840,120302,VTSPIRASY,VTSPIRASY,,,5174555,microfibrillar-associated protein 3 isoform 1,9606,Homo sapiens
+841,120308,VVIRGNSIIML,VVIRGNSIIML,,,59800216,Small nuclear ribonucleoprotein G,9606,Homo sapiens
+842,103041,ALWGPDPAAA,ALWGPDPAAA,,,124617,Insulin precursor,9606,Homo sapiens
+843,140770,"XVDCXTEMY + INDIST(X1, X5)",XVDCXTEMY,I/L uncertainty,"X1, X5",SRC248339,unknown protein eluted from human MHC allele,9606,Homo sapiens
+844,128149,YAYDGKDYIA,YAYDGKDYIA,,,122162,"HLA class I histocompatibility antigen, B-7 alpha chain precursor",9606,Homo sapiens
+845,146630,YEDEDSLKTL,YEDEDSLKTL,,,119581065,"topoisomerase (DNA) II alpha 170kDa, isoform CRA_a",9606,Homo sapiens
+846,146631,YEDFKEEGSENAV,YEDFKEEGSENAV,,,119631555,"GTP-binding protein PTD004, isoform CRA_b",9606,Homo sapiens
+847,146633,YEEGPGKNLP,YEEGPGKNLP,,,4502993,"cytochrome c oxidase subunit 7C, mitochondrial precursor",9606,Homo sapiens
+848,146634,YEEIFVKNM,YEEIFVKNM,,,5454114,tissue factor pathway inhibitor isoform a precursor,9606,Homo sapiens
+849,134609,YEGLLDYW,YEGLLDYW,,,7572967,immunoglobulin heavy chain variable region,9606,Homo sapiens
+850,120333,YEVSQLKD,YEVSQLKD,,,23396498,Cytosolic non-specific dipeptidase,9606,Homo sapiens
+851,146639,YGAEALERM,YGAEALERM,,,319739573,hemoglobin alpha-1 globin chain,9606,Homo sapiens
+852,120335,YGMPRQIL,YGMPRQIL,,,586000,Transgelin-2,9606,Homo sapiens
+853,137772,YLDPAQQNL,YLDPAQQNL,,,114573643,similar to BC39498_1,9606,Homo sapiens
+854,120344,YQKVVAGVANALA,YQKVVAGVANALA,,,256028940,beta-globin,9606,Homo sapiens
+855,146646,YSDMKRAL,YSDMKRAL,,,119628062,"splicing factor, arginine/serine-rich 4, isoform CRA_a",9606,Homo sapiens
+856,146654,YSSTWSGGYGL,YSSTWSGGYGL,,,62871070,immunoglobulin alpha heavy chain variable region,9606,Homo sapiens
