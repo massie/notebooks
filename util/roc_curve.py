@@ -12,4 +12,4 @@ def roc_curve(actual_values, predicted_values):
 	plt.ylim([-0.1,1.2])
 	plt.ylabel('True Positive Rate')
 	plt.xlabel('False Positive Rate')
-	return plt
+	return (plt, roc_auc)
