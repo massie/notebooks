@@ -1,2 +1,0 @@
-#!/bin/sh
-ipython nbconvert "$1" --to slides --output-dir /tmp --post serve
