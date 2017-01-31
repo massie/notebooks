@@ -3,3 +3,4 @@ data/mrna.*
 *.pyc
 *.pdf
 *.html
+octave_workspace
