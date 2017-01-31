@@ -1,3 +1,5 @@
 .ipynb_checkpoints
 data/mrna.*
 *.pyc
+*.pdf
+*.html
